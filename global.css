@@ -1,0 +1,59 @@
+body, html{
+    margin: 0;
+    padding: 0;
+}
+
+
+main {
+    font-family: "Architects Daughter", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+
+.ruler {
+    background-image: url(../img/ruler.png);
+    width: 300px;
+    height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+}
+
+.logo {
+    background-image: url(../img/winter.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+    width: 60px;
+    height: 60px;
+    position: relative;
+    top: 30px;
+}
+
+table{
+    width: 50%;
+    margin: auto;
+}
+
+td,th{
+    vertical-align: baseline;
+    padding: 0 5px;
+}
+
+th{
+    text-align: right;
+}
+
+.footer{
+    position: absolute;
+    bottom: 0;
+    text-align: right;
+    width: 100%;
+    padding: 10px 20px;
+    right: 0;
+    color: #848484;
+}
