@@ -34,9 +34,22 @@ main {
     top: 30px;
 }
 
+.runes{
+    text-align: center;
+    font-size: xxx-large;
+    position: absolute;
+    left: 38%;
+    top: 50%;
+}
+
+.hide{
+    display: none;
+}
+
 table{
     width: 50%;
     margin: auto;
+    opacity: 0;
 }
 
 td,th{
