@@ -1,3 +1,4 @@
+import '../assets/global.css'
 function main() {
   const table = document.getElementById("info");
   const runes = document.getElementById("runes");
@@ -10,7 +11,6 @@ function main() {
       if (op > 0.0) {
         runes.style.opacity = op.toString();
         op = Number((op - 0.1).toFixed(2));
-        console.log(op);
       } else {
         clearInterval(intervalID);
       }

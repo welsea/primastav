@@ -79,7 +79,7 @@ body {
 
 
 .ruler {
-    background-image: url(../img/ruler.png);
+    background-image: url('./img/ruler.png');
     width: 300px;
     height: 200px;
     background-position: center;
@@ -89,7 +89,7 @@ body {
 }
 
 .logo {
-    background-image: url(../img/winter.png);
+    background-image: url("./img/winter.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
