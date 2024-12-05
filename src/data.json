@@ -1,566 +1,566 @@
 [
     {
-        "runes":"ᛋᛁᚠᛏᛁᛋᚬᚴ",
-        "eventName": "SYFTESOK",
-        "description": "St. Svithuns messe, forvansket til &quot;syfte&quot; som betyr å rense. Dermed en påminnelse om nå skulle åkeren renses for ugress. Som været er, skal det bli til Olsok. Nå kunne slåttonna ta til. Merket er en ljå.",
-        "date": "Sat Jul 02 2016 00:00:00 GMT+0200 (Central European Summer Time)"
+        "eventName": "NYTTÅRSDAG",
+        "description": "eller Ottende dag jul. &quot;La Våra råde i år - han rådde så vel i fjor&quot;, sa de gamle. Jesu omskjæring. Nyttårsdag klar, gir godt år. Pålandsvind spår godt godt fiske. Merket er Jesu tempel, et timeglass, en kirke eller et hjul. ",
+        "date": "Fri Jan 01 2016 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᚾᛦᛏᛏ?ᚱᛋᚦᚬᚴ"
     },
     {
-        "runes":"ᛋᛁᛚᛁᚢᛘᛅᚾᚾᛅᛘᛁᛋᛋᛁ",
-        "eventName": "SELJUMANNAMESSE",
-        "description": "Seljumennene var følget til irske kongsdatter Suniva, som led martyrdøden på øya Seije syd for _______. Sta. Sunniva ble lokalhelgen for Vestlandet. Denne dagen er også knyttet til slåttonna. Merket er en rive.",
-        "date": "Fri Jul 08 2016 00:00:00 GMT+0200 (Central European Summer Time)"
+        "eventName": "TOLVTEDAG JUL",
+        "description": "Dagen ble også kalt hellige trekongersaften og var julekveld i gammel tid. Folk flest gjestet hverandre. Det var skikk å bake en bønne eller mandel inn i en formidabe pudding. Hver gjest mottok sin beskårne del, og den som fikk bønnen eller mandelen i munnen ble utropt til bønnekonge. Var det en kvinne, overdro hun verdigheten til ham som hun syntes best om. Bønnekongen ble da festens herre og skjenkemester.) ",
+        "date": "Tue Jan 05 2016 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᛏᚬᛚᚢᛏᛅᚦᚬᚴ ᛁᚢᛚ"
     },
     {
-        "runes":"ᚴᚾᚢᛏᛋᛘᛁᛋᛋᛁ",
-        "eventName": "KNUTSMESSE",
-        "description": "eller Knutsok. Til minne om den danske konge Knut den Helliges død i 1086. Ljåen i primstaven er en påminnelse om slåttonnen. Merke er et rikseple.",
-        "date": "Sun Jul 10 2016 00:00:00 GMT+0200 (Central European Summer Time)"
+        "eventName": "TRETTANDAG ",
+        "description": "De hellige tre kongers dag. Dagen ble holdt jevngod med juledag. Slutt på romjulshelgen Vi er midt i vintersesongen. Merket er tre kors, tre menn eller tre kroner. ",
+        "date": "Wed Jan 06 2016 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᛏᚱᛅᛏᛏᚬᚾᚦᚬᚴ "
     },
     {
-        "runes":"ᛘᛁᛏᛏᛋᚬᛘᛘᛁᚱᛏᛅᚴ",
-        "eventName": "MIDTSOMMERDAG",
-        "description": "I tillegg til Jonsok ble også 14. juli kalt midtsommerdag, - den dato som ligger midt i sommerhalvåret (14.april - 14. oktober). Nå skal havnehagene være på sitt beste. Merket er et tre.",
-        "date": "Thu Jul 14 2016 00:00:00 GMT+0200 (Central European Summer Time)"
+        "eventName": "Kors",
+        "description": "Merket er et lite kors, en klokke, eller en svpe. ",
+        "date": "Thu Jan 07 2016 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᚴᚬᚱᛋ"
     },
     {
-        "runes":"ᛘᛅᚱᛏᛁᛁᛘᛁᛋᛋᛁ",
-        "eventName": "MARTIEMESSE",
-        "description": "eller Marit (el. Mari) Vassause. Til minne om Sta. Margartaa av Antiochia også kalt Sta. Margareta.(ca. år 300). Regner det denne dagen, blir det styggevær mange uker denne høsten, derav navnet Vannause. Merket er et kors.",
-        "date": "Wed Jul 20 2016 00:00:00 GMT+0200 (Central European Summer Time)"
+        "eventName": "BRETTESMESSE",
+        "description": "Opprinnelig Sta. Brictiva messe. &quot;Brette&quot; er her brukt i betydningen å dele opp (brekke) noe i småstykker. Denne dag skal du ikke kjøre hest. Alle julens matrester skal brekkes og legges i gryta. Merket er en hest, en øks, et kors eller et flagg. ",
+        "date": "Mon Jan 11 2016 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᛒᚱᛅᛏᛏᛅᛋᛘᛅᛋᛋᛅ"
     },
     {
-        "runes":"ᛘᛅᚴᛏᛅᛚᛁ ᛏᛅᚴ",
-        "eventName": "MAGDALI-DAG",
-        "description": "eller Magdalimesse (MARISTOL selv om jeg tror den hører til 20. juli?), til minne om Maria Magdalena. Merket er et kors.",
-        "date": "Fri Jul 22 2016 00:00:00 GMT+0200 (Central European Summer Time)"
+        "eventName": "REINHOLD",
+        "description": "Dagen er til minne om Reinhold som døde i 960. Han var benediktinermunk ved et kloster i Köln. Han var satt til å holde oppsyn med et kirkebygg. Da han mente at arbeidet gikk for sent, tok han selv et tak for å få opp tempoet. Det kostet ham livet. Arbeiderne knuste hodet hans og kastet ham i Rhinen. Merket er et smøkrystall ",
+        "date": "Tue Jan 12 2016 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᚱᛅᛁᚾᚼᚬᛚᚦ"
     },
     {
-        "runes":"ᚼᚢᚾᛏᛏᛅᚴᛁᚾᛁ",
-        "eventName": "HUNDDAGENE",
-        "description": "HUNDDAGENE går inn. Slik været er denne dagen skal det være de neste fire ukene. Jeg har ikke sett denne dagen avmerket på noen primstav.",
-        "date": "Sat Jul 23 2016 00:00:00 GMT+0200 (Central European Summer Time)"
+        "eventName": "TJUGENDAG ",
+        "description": "eller Tjuendedag jul. St. Knut. Knut jager julen ut. Dette var gamle nyttårsdag. Emnetre skal hugges. Nå skulle julen ringes ut - og juleølet drikkes opp. &quot;Det var godt strå som korn og brød var i enden på&quot;. Merket er en øks, et omsnudd drikkehorn eller en omsnudd klokke. ",
+        "date": "Wed Jan 13 2016 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᛏᛁᚢᚴᛅᚾᚦᚬᚴ "
     },
     {
-        "runes":"ᛁᛅᚴᚬᛒᛋᚬᚴ",
-        "eventName": "JAKOPSOK",
-        "description": "Jakob Våthatt, eller Jakobsmesse, til minne om apostelen Jacob den eldre. Dessverre kunne man da - midt i den beste høytørken - vente regn, mente man. Merket er en våt hatt.",
-        "date": "Mon Jul 25 2016 00:00:00 GMT+0200 (Central European Summer Time)"
+        "eventName": "Tre",
+        "description": "Merket er et tykkgrenet tre eller en bispestav. ",
+        "date": "Thu Jan 14 2016 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᛏᚱᛅ"
     },
     {
-        "runes":"ᚬᛚᛋᚬᚴ",
-        "eventName": "OLSOK",
-        "description": "eller Olavsmesse. Olav den Helliges dødsdag (1030). Olsokbål på høytliggende steder. Fint vær gir godt høstvær. Merket er Olavs øks.",
-        "date": "Fri Jul 29 2016 00:00:00 GMT+0200 (Central European Summer Time)"
+        "eventName": "Klokke",
+        "description": "Merket er en klokke eller et svin. ",
+        "date": "Sun Jan 17 2016 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᚴᛚᚬᚴᚴᛅ"
     },
     {
-        "runes":"ᚼᚢᚾᛏᛏᛅᚴᛁᚾᛁ",
-        "eventName": "HUNDDAGENE",
-        "description": "HUNDDAGENE går ut. Jeg har ikke sett denne dagen avmerket på noen primstav.",
-        "date": "Tue Aug 23 2016 00:00:00 GMT+0200 (Central European Summer Time)"
+        "eventName": "MARIUS OG MARTA",
+        "description": "Til minne om presten Marius og hans hustru Marta som led martyrdøden fordi de besøkte kristne i fengslene. ",
+        "date": "Tue Jan 19 2016 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᛘᚬᚱᛁᚢᛋ ᚬᚴ ᛘᚬᚱᛏᚬ"
     },
     {
-        "runes":"ᚢᛁᛋᛚᛁ ᚬᛚᛋᚬᚴ",
-        "eventName": "VESLE OLSOK",
-        "description": "Til minne om at Olav den Hellige - som da et helt år hadde ligget begravet i &quot;uinnviet&quot; jord, fikk kirkelig bisettelse og ble erklært for helgen (1031).",
-        "date": "Wed Aug 03 2016 00:00:00 GMT+0200 (Central European Summer Time)"
+        "eventName": "BRØDREMESSE",
+        "description": "Fordi denne dagen var viet til to helgener. St. Fabian og St. Sebastian, trodde folk var to brødre - hvilket de ikke var. ",
+        "date": "Wed Jan 20 2016 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᛒᚱᛦᚦᚱᛅᛘᛅᛋᛋᛅ"
     },
     {
-        "runes":"ᛚᛅᚱᛋᛘᛁᛋᛋᛁ",
-        "eventName": "LARSMESSE",
-        "description": "eller Larsok. St. Laurentius, romersk martyr 258. Han ble brent levende. Været ved Larsok vil vare til Barsok, 24. august. Merket er en rist. (Jeg har også sett LARSMESSE 3. august)",
-        "date": "Wed Aug 10 2016 00:00:00 GMT+0200 (Central European Summer Time)"
+        "eventName": "Dødningeskalle",
+        "description": "Merket er en dødningeskalle. ",
+        "date": "Sun Jan 24 2016 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᚦᛦᚦᚾᛁᚾᚴᛅᛋᚴᚬᛚᛚᛅ"
     },
     {
-        "runes":"ᛏᛁᛒᛁᚱᛏᛁᚢᛋ",
-        "eventName": "TIBERTIUS",
-        "description": "Dagen er til minne om den hellige Tibertius som ble omvendt av den hellige Sebastian.",
-        "date": "Thu Aug 11 2016 00:00:00 GMT+0200 (Central European Summer Time)"
+        "eventName": "PÅLSMESSE",
+        "description": "eller &quot;Pål skytter&quot; til minne om Apostelen Paulus, som den dag ble omvendt til kristendommen. Pålsmesse ga bud om vær og år. Merket er en bue, et sverd eller en fisk. ",
+        "date": "Mon Jan 25 2016 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᛒ?ᛚᛋᛘᛅᛋᛋᛅ"
     },
     {
-        "runes":"ᛘᛅᚱᛁᛅᛋ ᚼᛁᛘᛘᛁᛚᚠᛅᚱᛏ",
-        "eventName": "MARIAS HIMMELFART",
-        "description": "De første frostnettene sto nå for døren, og folk ba til Jomfru Maria om at hun i sin himmel skulle gå i forbønn for dem, slik at det ikke ble uår. (Mariamesse (første) i motsetning til Mariamesse (sene) 8. september.) Merket er et et kronet kors.",
-        "date": "Mon Aug 15 2016 00:00:00 GMT+0200 (Central European Summer Time)"
+        "eventName": "POLYKARP",
+        "description": "Dagen er til minne om Polycarpus, biskop fra Smyrna som led martyrdøden 86 år gammel i år 166. ",
+        "date": "Tue Jan 26 2016 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᛒᚬᛚᛦᚴᚬᚱᛒ"
     },
     {
-        "runes":"ᚴᚬᛚᚬᛘᛒᛅ",
-        "eventName": "COLOMBA",
-        "description": "(NAVN ukjent) (Opprinnelig efter St. Colomba. Skottlands apostel som grunnla Lona-klosteret i det 6. århundre). Beskrivelse fra primstav fra Telemark. Det er mulig at denne dagen ikke hører hjemme på primstaven?",
-        "date": "Mon Jun 05 2017 00:00:00 GMT+0200 (Central European Summer Time)"
+        "eventName": "KYNDELSMESSE",
+        "description": "også kalt LYSMESSE, da kyndel kommer av det latinske navn på lys (candelæ, som også går igjen i kandelaber - stor lysestake). Marias renselsesfest. Dagen har ikke vert hellidag hos oss sidan 1770. Det er 40 dagar sidan Julaften. Denne dagen kan man vente hardt vær, men mildvær er et godt tegn. Merket er et tre. ",
+        "date": "Tue Feb 02 2016 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᚴᛦᚾᚦᛅᛚᛋᛘᛅᛋᛋᛅ"
     },
     {
-        "runes":"ᛘᛅᚱᛁᛘᛁᛋᛋᛁᚾᛁ",
-        "eventName": "MARIMESSENE",
-        "description": "Jomfru Marias fødselsdag. Denne dagen skal sauene klippes. Er det godt vær, bli høsten god.Merket er ei Marikrone.   ",
-        "date": "Tue Sep 08 2015 00:00:00 GMT+0200 (Central European Summer Time)"
+        "eventName": "BLÅSMESSE",
+        "description": "Opprinnelig St. Blasius messe. Nok et eksempel p en forvanskning som har fått ny mening: Hvis det blåste sterkt den dagen, ville det bli vindfullt resten av året. Sjøfolk og fiskere måtte ikke nevne dagen med navn. Merket er en bøyd kvist. ",
+        "date": "Wed Feb 03 2016 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᛒᛚ?ᛋᛘᛅᛋᛋᛅ"
     },
     {
-        "runes":"ᚠᛁᚾᚴᛁᚱᚴᚢᛚᛚᛘᛁᛋᛋᛁ",
-        "eventName": "FINGERGULLMESSE",
-        "description": "(eller FINGERGULLFESTEN). \nI Nordland ble dagen også kalt &quot;saueklippedagen&quot;. \nDagen har sitt navn etter at noe av Jesu blod kom til Nidaros - trolig i 1161. Navnet kommer av at blodet ble oppbevart i en kapsel på en fingerring av gull. Historien forteller at erkebiskop Øystein Erlandsson (erkebiskop 1157 - 1188) foretok sin reise til Roma i 1160 - 1161, da han ble vigslet av pave Alexander III og mottok sitt pallium (beviset på vigselen). Et pallium er en hvit ullkrave med seks svarte kors - opprinnelig bare brukt av paven, men senere også av erkebiskopene. Dagen ble en av de største kirkefestene i Nidaros frem til reformasjonen i 1536. Høytideligheten startet med vesper (aftensang) på denne dagen og ble avsluttet med vesper dagen etter. Det ble sunget tidebønner som handlet utelukkende om blod, blodets mysterium og forvandlingen av vinen ved nattverden. Disse sangene er i komplett utgave oppbevart i København i dag.  ",
-        "date": "Sat Sep 12 2015 00:00:00 GMT+0200 (Central European Summer Time)"
+        "eventName": "ÅGOTMESSE",
+        "description": "eller &quot;musedagen&quot;, til minne om Sta. Agatha, som led martyrdøden i år 251. Unge jenter skal ikke børste håret. Merket er en mus. ",
+        "date": "Fri Feb 05 2016 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "?ᚴᚬᛏᛘᛅᛋᛋᛅ"
     },
     {
-        "runes":"ᚴᚬᚱᛋᛘᛁᛋᛋᛁ",
+        "eventName": "DORTHEMESSE",
+        "description": " ",
+        "date": "Sat Feb 06 2016 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᚦᚬᚱᛏᚼᛅᛘᛅᛋᛋᛅ"
+    },
+    {
+        "eventName": "Brende Phd Report",
+        "description": "you now have a new deadline for your evaluation: February 23rd 2016.\n\nPlease make sure that Mattijs has your reports by February 18th.",
+        "date": "Thu Feb 18 2016 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᛒᚱᛅᚾᚦᛅ ᛒᚼᚦ ᚱᛅᛒᚬᚱᛏ"
+    },
+    {
+        "eventName": "PERSOK",
+        "description": "eller St. Peters stol eller Per Varmstein. Apostelen Petrus ble biskop på denne dag. At isen kunne begynne å gå opp på vann og elver på den tiden, mente folk kom av at St. Peter kastet varme steiner ned på isen. Fra denne dag begynner forøvrig isen å smelte rundt &quot;stokk og strå&quot;. Dagen ble regnet som første vårdagen. Nå løsner alle skip i vinterhavn. Merket er en nøkkel. ",
+        "date": "Mon Feb 22 2016 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᛒᛅᚱᛋᚬᚴ"
+    },
+    {
+        "eventName": "MATTISMESSE",
+        "description": "eller &quot;laup-årsmesse&quot; (skuddår) fordi man la inn en ekstra dag etter Mattis. Dage er til minne om St. Mathias. &quot;Mattis bryter is, er det ikke is, gjør han is&quot;. Merket er en M. ",
+        "date": "Wed Feb 24 2016 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᛘᚬᛏᛏᛁᛋᛘᛅᛋᛋᛅ"
+    },
+    {
+        "eventName": "GREGUSMESSE",
+        "description": "eller Gregorsmesse. Gregor den store, pave 590-604. Ofte forvansket til Groårsmesse og brukt som merkedag for vårværet. Er det sønnavind, kan man vente godt år. Gregors tid - natt og dag like vid. Nå kan en spise kveldsmat i dagslys. Merket er åkerteiger med kors. ",
+        "date": "Sat Mar 12 2016 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᚴᚱᛅᚴᚢᛋᛘᛅᛋᛋᛅ"
+    },
+    {
+        "eventName": "GJERTRUDMESSE",
+        "description": "til minne om Sta. Gjertrude, abbedisse i benediktinerklosteret i Nivelles, død 659. Kaltes også Per Pek i vatn fordi St. Peter da kom med sin stav for å prøve isen. Merket er en piggstav. ",
+        "date": "Thu Mar 17 2016 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᚴᛁᛅᚱᛏᚱᚢᚦᛘᛅᛋᛋᛅ"
+    },
+    {
+        "eventName": "VÅRJEVNDØGN",
+        "description": "Dag og natt nøyaktig (astronomisk sett) like lange. \nI virkeligheten er vårjevndøgn stort sett 20. mars, men året før skuddår er datoen 21. mars. ",
+        "date": "Mon Mar 21 2016 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᚢ?ᚱᛁᛅᚢᚾᚦᛦᚴᚾ"
+    },
+    {
+        "eventName": "MARIMESSE",
+        "description": "VÅRFRUMESSE eller VÅRMESSE. (halvveis mellom juledag og Sankthansdag). Jomfru Marias bebudelsesdag. Mild vårfrumesse spdde godt. Nå er det slutt med sledeføret. Merket er et tre med kors. ",
+        "date": "Fri Mar 25 2016 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᛘᚬᚱᛁᛘᛅᛋᛋᛅ"
+    },
+    {
+        "eventName": "BALBINA",
+        "description": "Den hellige Balbina, jomfru som ble døpt av pave Aleksander. Balbina døde i 169. Merket ser ut som en alterkalk eller en døpefont. ",
+        "date": "Thu Mar 31 2016 00:00:00 GMT+0200 (Central European Summer Time)",
+        "rune": "ᛒᚬᛚᛒᛁᚾᚬ"
+    },
+    {
+        "eventName": "HELLIGE HUGO",
+        "description": "biskop av Grenoble. Han solgte en gull kalk og ga pengene for å kjøpe mat til de sultne. ",
+        "date": "Fri Apr 01 2016 00:00:00 GMT+0200 (Central European Summer Time)",
+        "rune": "ᚼᛅᛚᛚᛁᚴᛅ ᚼᚢᚴᚬ"
+    },
+    {
+        "eventName": "SOMMERMÅL",
+        "description": "eller Sommerdag. Markerte inngangen til sommerhalvåret. Snedde det sommerdagen, skulle det bli 9 snedager til sommeren virkelig kom. St. Tiburtius og St. Valerianus , Melkekar skulle vaskes. Været holder i 7 uker. Merket er et tre. ",
+        "date": "Thu Apr 14 2016 00:00:00 GMT+0200 (Central European Summer Time)",
+        "rune": "ᛋᚬᛘᛘᛅᚱᛘ?ᛚ"
+    },
+    {
+        "eventName": "MAGNUSMESSE",
+        "description": "Magnus Erlendsson, jarl på Orkenøyene, drept under strid med sin fetter Håkon Pålsson i år 1115 og opphøyet til helgen i år 1135. Nå kunne man begynne å hakke i jorden. Merket er ett kors og en hakke. ",
+        "date": "Sat Apr 16 2016 00:00:00 GMT+0200 (Central European Summer Time)",
+        "rune": "ᛘᚬᚴᚾᚢᛋᛘᛅᛋᛋᛅ"
+    },
+    {
+        "eventName": "ST. GEORGSDAG",
+        "description": "eller St. Jørgens dag. Speiderbevegelsen feirer fortsatt denne dagen, og den legges gjerne til nærmeste helg, og det m nevnes at speiderne aldri benytter St. Georgskorset! Primstavmerket er gjerne ett St. Georgs kors eller en hest. ",
+        "date": "Sat Apr 23 2016 00:00:00 GMT+0200 (Central European Summer Time)",
+        "rune": "ᛋᛏ? ᚴᛅᚬᚱᚴᛋᚦᚬᚴ"
+    },
+    {
+        "eventName": "GANGDAGEN",
+        "description": "eller MARKUSMESSE Minnet om Evangelisten St. Markus ble høytideligholdt ved at Presten og folket gikk i store prosesjoner over markene. Men navnet har også forbindelse med at våre hedenske forfedre feiret 25. april som en -gagn-dag- (gagn = seier), gammel vårfest, til minne om æsenes seier over vinterens onde ånd, jetten Tjasse. Merket er evangelistens fjærpenn. ",
+        "date": "Mon Apr 25 2016 00:00:00 GMT+0200 (Central European Summer Time)",
+        "rune": "ᚴᚬᚾᚴᚦᚬᚴᛅᚾ"
+    },
+    {
+        "eventName": "GAUKMESSE",
+        "description": "Helgener er St. Philip og St. Jacob. Valborgdag i Sverige og Danmark. Første gang man hørte gjøken gale den dagen, måtte man legge godt merke til hvor lyden kom fra. Satt gjøken i øst, var det varsel om lykke i frieri osv. Merket er en gjøk. ",
+        "date": "Sun May 01 2016 00:00:00 GMT+0200 (Central European Summer Time)",
+        "rune": "ᚴᚬᚢᚴᛘᛅᛋᛋᛅ"
+    },
+    {
         "eventName": "KORSMESSE",
-        "description": "(den lille), til minne om at det hellige kors ble erobret tilbake fra perserne. Nå skal kornet være i hus. Siste frist for å føre dyrene ned fra setra. Merket er et kors.  ",
-        "date": "Mon Sep 14 2015 00:00:00 GMT+0200 (Central European Summer Time)"
+        "description": "(den store), til minne om at det hellige kors ble funnet i Jerusalem av Helena, keiser Konstantins mor (ca. 330). Første sådag og klippedag for sau. Merket er et kors. (Som 20. juli). ",
+        "date": "Tue May 03 2016 00:00:00 GMT+0200 (Central European Summer Time)",
+        "rune": "ᚴᚬᚱᛋᛘᛅᛋᛋᛅ"
     },
     {
-        "runes":"ᛘᛅᛏᛏᛁᚢᛋᛘᛁᛋᛋᛁ",
-        "eventName": "MATTEUSMESSE",
-        "description": "efter Apostelen Matheus.\nDen hellige Matteus ble født i Galilea i det første århundret. Han arbeidet som toller i Kapernaum. Den gang var tollerne en forhatt og foraktet yrkesgruppe i romernes tjeneste. De ble ansett som landsforrædere, og det var en allmenn oppfatning at de supplerte lønnen med utpressing. Tollerne på den tiden var utelukket fra det religiøse fellesskapet i templet og de ble unngått i sosiale og forretningsmessige sammenhenger.\n\nSankt Matteus er også kjent som evangelisten Matteus. Det første evangeliets forfatterskap tilskrives etter tradisjonen Matteus. Han skal ha skrevet sitt evangelium på vei til Egypt, der han spredde det kristne budskap og omvendte mange.\n\nEn legende forteller at Matteus vekte opp den skjønne prinsessen Iphigenia av Etiopia fra de døde. Prinsessen viste sin takknemlighet ved å love å leve i evig kyskhet. Da hennes onkel overtok tronen, ville han gifte seg med den vakre prinsessen. Hun var imidlertid standhaftig, og støttet av Matteus holdt Iphigenia sitt løfte om kyskhet. Den nye kongen ga da ordre om at Matteus skulle drepes. Det skjedde med lanse mens han feiret messe ved alteret.\n\nDe antatte relikvier etter Matteus oppbevares i krypten i katedralen i Salerno, Italia.\n\nMatteus ble utnevnt til skytshelgen for italienske bokholdere av pave Pius i 1954 og for skatteoppkrevere og tollfunksjonærer i 1957. I dag er Matteus også skytshelgen for finans- og bankansatte, regnskapsfolk, bokholdere og sikkerhetsvakter. Han symboliserer også kampen mot alkoholisme.\n\nDet finnes et maleri av St. Matteus på prekestolen i Skibtvedt kirke i Østfold -- Tekst: Anita Grandal\n\nNå er det tid for å lauve. Bjørnen samler gress og mose til vinterhiet. Merket er en øks.  ",
-        "date": "Mon Sep 21 2015 00:00:00 GMT+0200 (Central European Summer Time)"
+        "eventName": "HALVORSOK",
+        "description": "eller Hallvardsmesse. St. Hal(l)vard Vedbjørnsson ble drept med et pileskudd og liket ble senket i Drammensfjorden med en møllesten om halsen. - Men liket og stenen fløt opp, og St. Hallvard ble bisatt i Oslo Domkirke. Møllestenen og pilene går igjen i Oslo Bys segl og merke. Buskapen skulle finne føde ute. Merket er en kvernstein. ",
+        "date": "Sun May 15 2016 00:00:00 GMT+0200 (Central European Summer Time)",
+        "rune": "ᚼᚬᛚᚢᚬᚱᛋᚬᚴ"
     },
     {
-        "runes":"ᛘᛁᚴᚴᛁᛚᛋᛘᛁᛋᛋᛁ",
-        "eventName": "MIKKELSMESSE",
-        "description": "erkeengelen Michaels dag, i katolsk tid en høytidsdag på linje med juledag og Maria Bebudelsesdag. Frem til 1770 var 29. september helligdag i Norge. Dagen markerte at nå burde innhøstingen være ferdig og jakttiden begynte. Primstaven kan ha forskjellige tegn for å markere Mikkelsmesse. Erkeengelens ansikt med strålekrans er en av dem, skålvekta er en annen. Mikkelsmesse ble feiret for å takke for guds omsorg og vår takk for alle gode gaver i skaperverket og i årets grøde.\nI Amerika har de sin Thanksgiving Day.\n\nNå skulle avlingen være i hus. Været er slik det bli neste sommer. Merket er en vekt.  ",
-        "date": "Tue Sep 29 2015 00:00:00 GMT+0200 (Central European Summer Time)"
-    },
-    {
-        "runes":"ᛏᛁᚾᛁᛋᛘᛁᛋᛋᛁ",
-        "eventName": "DINESMESSE",
-        "description": "som har fått navnet etter den hellige Dionysius, som var den første biskop av Paris. Han led martyrdøden i år 286. På denne dag ventes, ifølge gammel tro, sterk vind slik at resten av løvet blåser av trærne.  ",
-        "date": "Fri Oct 09 2015 00:00:00 GMT+0200 (Central European Summer Time)"
-    },
-    {
-        "runes":"ᚢᛁᚾᛏᛁᚱᚾᛅᛏᛏ",
-        "eventName": "VINTERNATT",
-        "description": "eller Vinterdag. Her begynner vintersiden på primstavene. Til minne om St Calixtus. Denne dagen spår vinterværet. Snøen kan for alvor forventes. Vanten (vått) i tegnet skriver seg antagelig fra likheten mellom de gamle ord vetr (vinter) og vottre (vante). Merket er ev vott.  ",
-        "date": "Wed Oct 14 2015 00:00:00 GMT+0200 (Central European Summer Time)"
-    },
-    {
-        "runes":"ᛋᛁᛘᚬᚾᛘᛁᛋᛋᛁ",
-        "eventName": "SIMONMESSE",
-        "description": "efter Apostlene Simon Zelotes og Judas. Også kalt Førebod. Nå kan vinterværet forvenes og det skulle bli sledeføre. Buskapen skal ha full vinterforing. Merket er et spyd, et sverd eller en sag.  ",
-        "date": "Wed Oct 28 2015 00:00:00 GMT+0100 (Central European Standard Time)"
-    },
-    {
-        "runes":"ᛘᚬᚱᛏᛁᚾᛘᛁᛋᛋᛁ",
-        "eventName": "MORTENMESSE ",
-        "description": "til minne om St. Martin - biskop av Tours. Han var så from at han da han skulle velges til biskop, - rømte og gjemte seg blant gjessene. Derav skikken med å spise gås, Mortensgås. Er dagen klar, blir det en hard vinter. Merket er en gås.  ",
-        "date": "Wed Nov 11 2015 00:00:00 GMT+0100 (Central European Standard Time)"
-    },
-    {
-        "runes":"ᛅᚾᚬᚾᚢᛋ",
-        "eventName": "Anianus",
-        "description": "Dagen er til minne om Anianus, biskop av Orleans, tidligere eneboer. Da hunnerne under Attila rykket frem, var det like meget Anianus bønn som forsvarernes tapperhet å takke for at fienden ble beseiret. Anianus døde år 453.  ",
-        "date": "Tue Nov 17 2015 00:00:00 GMT+0100 (Central European Standard Time)"
-    },
-    {
-        "runes":"ᚼᛁᛋᛏᛁᛋᚴᚬ",
-        "eventName": "Hestesko",
-        "description": "Merket er en hestesko.  ",
-        "date": "Thu Nov 19 2015 00:00:00 GMT+0100 (Central European Standard Time)"
-    },
-    {
-        "runes":"ᛒᛁᚢᚱᚾᛁᚢᚬᚴ",
         "eventName": "BJØRNEVOK",
         "description": "(vok). Dagens helgen, Sta Julia. Opprinnelig St. Bernhards messe. Bernhard er først blitt fornorsket til Bjarnvard, og dette igjen forvansket til - bjørn-, samt tillagt den betydning at på den dagen forlot bjørnen hiet. Merket er en bjørnefot. ",
-        "date": "Sun May 22 2016 00:00:00 GMT+0200 (Central European Summer Time)"
+        "date": "Sun May 22 2016 00:00:00 GMT+0200 (Central European Summer Time)",
+        "rune": "ᛒᛁᛦᚱᚾᛅᚢᚬᚴ"
     },
     {
-        "runes":"ᛋᚴᚬᚴᛚᛁᚠᛅᛚᛚᛋᛏᛅᚴᛁᚾ",
         "eventName": "SKOKLEFALLSDAGEN",
         "description": "Skoklefalldagen / (Rasmusdagen - ikke bekreftet)\nMerke er et &quot;Bor&quot; ",
-        "date": "Fri Jun 03 2016 00:00:00 GMT+0200 (Central European Summer Time)"
+        "date": "Fri Jun 03 2016 00:00:00 GMT+0200 (Central European Summer Time)",
+        "rune": "ᛋᚴᚬᚴᛚᛅᚠᚬᛚᛚᛋᚦᚬᚴᛅᚾ"
     },
     {
-        "runes":"ᚴᚬᛚᚢᛘᛒᛅᛘᛁᛋᛋᛁ",
+        "eventName": "COLOMBA",
+        "description": "(NAVN ukjent) (Opprinnelig efter St. Colomba. Skottlands apostel som grunnla Lona-klosteret i det 6. århundre). Beskrivelse fra primstav fra Telemark. Det er mulig at denne dagen ikke hører hjemme på primstaven?",
+        "date": "Mon Jun 05 2017 00:00:00 GMT+0200 (Central European Summer Time)",
+        "rune": "ᚴᚬᛚᚬᛘᛒᚬ"
+    },
+    {
         "eventName": "KOLUMBAMESSE",
         "description": "Dagen har navn etter Columcille, en irsk munk som ble dyrket som helgen på Island og i Bjørgvin bispedømme. Dagen ble også kalt; Kolbjørn med laksen, for nå ventet man at laksen skulle gå opp i elvene. Merke er gjerne en fisk. ",
-        "date": "Thu Jun 09 2016 00:00:00 GMT+0200 (Central European Summer Time)"
+        "date": "Thu Jun 09 2016 00:00:00 GMT+0200 (Central European Summer Time)",
+        "rune": "ᚴᚬᛚᚢᛘᛒᚬᛘᛅᛋᛋᛅ"
     },
     {
-        "runes":"ᛒᚬᛏᚬᛚᚠᛋᛘᛁᛋᛋᛁ",
         "eventName": "BOTOLFSMESSE",
         "description": "eller Botsok. St. Botolph bygget et kloster i England så tidlig som år 654. Botsok var full helligdag i Norge flere steder inntil for ca. 100 år siden. Nå kan alle røtter rykkes opp, og vil senere råtne. Merket er en bispestav. ",
-        "date": "Fri Jun 17 2016 00:00:00 GMT+0200 (Central European Summer Time)"
+        "date": "Fri Jun 17 2016 00:00:00 GMT+0200 (Central European Summer Time)",
+        "rune": "ᛒᚬᛏᚬᛚᚠᛋᛘᛅᛋᛋᛅ"
     },
     {
-        "runes":"ᛋᚬᛘᛘᛁᚱᛋᚬᛚᚢᛁᚱᚢ",
         "eventName": "SOMMERSOLVERV",
         "description": " ",
-        "date": "Tue Jun 21 2016 00:00:00 GMT+0200 (Central European Summer Time)"
+        "date": "Tue Jun 21 2016 00:00:00 GMT+0200 (Central European Summer Time)",
+        "rune": "ᛋᚬᛘᛘᛅᚱᛋᚬᛚᚢᛅᚱᚢ"
     },
     {
-        "runes":"ᛁᚬᚾᛋᚬᚴ",
         "eventName": "JONSOK",
         "description": "eller Sankthansdag. Til minne om Johannes døperens fødsel, Gammel solfest. Det å brenne bål midtsommer-kvelden stammer fra hedensk tid. Buskapen merkes med tjærekors. Merket er solen. ",
-        "date": "Fri Jun 24 2016 00:00:00 GMT+0200 (Central European Summer Time)"
+        "date": "Fri Jun 24 2016 00:00:00 GMT+0200 (Central European Summer Time)",
+        "rune": "ᛁᚬᚾᛋᚬᚴ"
     },
     {
-        "runes":"ᛒᛁᚱᛋᚬᚴ",
         "eventName": "PERSOK",
         "description": "eller Peterson Petersmesse, egentlig St. Peter- og St. Pauls messe. På den dagen skulle mor plukke legende urter. Merket er St. Peters nøkkel. ",
-        "date": "Wed Jun 29 2016 00:00:00 GMT+0200 (Central European Summer Time)"
+        "date": "Wed Jun 29 2016 00:00:00 GMT+0200 (Central European Summer Time)",
+        "rune": "ᛒᛅᚱᛋᚬᚴ"
     },
     {
-        "runes":"ᛒᛅᚱᛋᚬᚴ",
+        "eventName": "SYFTESOK",
+        "description": "St. Svithuns messe, forvansket til &quot;syfte&quot; som betyr å rense. Dermed en påminnelse om nå skulle åkeren renses for ugress. Som været er, skal det bli til Olsok. Nå kunne slåttonna ta til. Merket er en ljå.",
+        "date": "Sat Jul 02 2016 00:00:00 GMT+0200 (Central European Summer Time)",
+        "rune": "ᛋᛦᚠᛏᛅᛋᚬᚴ"
+    },
+    {
+        "eventName": "Bonsnosen T & J",
+        "date": "Sat Jul 06 2024 11:00:00 GMT+0200 (Central European Summer Time)",
+        "rune": "ᛒᚬᚾᛋᚾᚬᛋᛅᚾ ᛏ ? ᛁ"
+    },
+    {
+        "eventName": "SELJUMANNAMESSE",
+        "description": "Seljumennene var følget til irske kongsdatter Suniva, som led martyrdøden på øya Seije syd for _______. Sta. Sunniva ble lokalhelgen for Vestlandet. Denne dagen er også knyttet til slåttonna. Merket er en rive.",
+        "date": "Fri Jul 08 2016 00:00:00 GMT+0200 (Central European Summer Time)",
+        "rune": "ᛋᛅᛚᛁᚢᛘᚬᚾᚾᚬᛘᛅᛋᛋᛅ"
+    },
+    {
+        "eventName": "KNUTSMESSE",
+        "description": "eller Knutsok. Til minne om den danske konge Knut den Helliges død i 1086. Ljåen i primstaven er en påminnelse om slåttonnen. Merke er et rikseple.",
+        "date": "Sun Jul 10 2016 00:00:00 GMT+0200 (Central European Summer Time)",
+        "rune": "ᚴᚾᚢᛏᛋᛘᛅᛋᛋᛅ"
+    },
+    {
+        "eventName": "MIDTSOMMERDAG",
+        "description": "I tillegg til Jonsok ble også 14. juli kalt midtsommerdag, - den dato som ligger midt i sommerhalvåret (14.april - 14. oktober). Nå skal havnehagene være på sitt beste. Merket er et tre.",
+        "date": "Thu Jul 14 2016 00:00:00 GMT+0200 (Central European Summer Time)",
+        "rune": "ᛘᛁᚦᛏᛋᚬᛘᛘᛅᚱᚦᚬᚴ"
+    },
+    {
+        "eventName": "MARTIEMESSE",
+        "description": "eller Marit (el. Mari) Vassause. Til minne om Sta. Margartaa av Antiochia også kalt Sta. Margareta.(ca. år 300). Regner det denne dagen, blir det styggevær mange uker denne høsten, derav navnet Vannause. Merket er et kors.",
+        "date": "Wed Jul 20 2016 00:00:00 GMT+0200 (Central European Summer Time)",
+        "rune": "ᛘᚬᚱᛏᛁᛅᛘᛅᛋᛋᛅ"
+    },
+    {
+        "eventName": "MAGDALI-DAG",
+        "description": "eller Magdalimesse (MARISTOL selv om jeg tror den hører til 20. juli?), til minne om Maria Magdalena. Merket er et kors.",
+        "date": "Fri Jul 22 2016 00:00:00 GMT+0200 (Central European Summer Time)",
+        "rune": "ᛘᚬᚴᚦᚬᛚᛁ?ᚦᚬᚴ"
+    },
+    {
+        "eventName": "HUNDDAGENE",
+        "description": "HUNDDAGENE går inn. Slik været er denne dagen skal det være de neste fire ukene. Jeg har ikke sett denne dagen avmerket på noen primstav.",
+        "date": "Sat Jul 23 2016 00:00:00 GMT+0200 (Central European Summer Time)",
+        "rune": "ᚼᚢᚾᚦᚦᚬᚴᛅᚾᛅ"
+    },
+    {
+        "eventName": "JAKOPSOK",
+        "description": "Jakob Våthatt, eller Jakobsmesse, til minne om apostelen Jacob den eldre. Dessverre kunne man da - midt i den beste høytørken - vente regn, mente man. Merket er en våt hatt.",
+        "date": "Mon Jul 25 2016 00:00:00 GMT+0200 (Central European Summer Time)",
+        "rune": "ᛁᚬᚴᚬᛒᛋᚬᚴ"
+    },
+    {
+        "eventName": "OLSOK",
+        "description": "eller Olavsmesse. Olav den Helliges dødsdag (1030). Olsokbål på høytliggende steder. Fint vær gir godt høstvær. Merket er Olavs øks.",
+        "date": "Fri Jul 29 2016 00:00:00 GMT+0200 (Central European Summer Time)",
+        "rune": "ᚬᛚᛋᚬᚴ"
+    },
+    {
+        "eventName": "VESLE OLSOK",
+        "description": "Til minne om at Olav den Hellige - som da et helt år hadde ligget begravet i &quot;uinnviet&quot; jord, fikk kirkelig bisettelse og ble erklært for helgen (1031).",
+        "date": "Wed Aug 03 2016 00:00:00 GMT+0200 (Central European Summer Time)",
+        "rune": "ᚢᛅᛋᛚᛅ ᚬᛚᛋᚬᚴ"
+    },
+    {
+        "eventName": "LARSMESSE",
+        "description": "eller Larsok. St. Laurentius, romersk martyr 258. Han ble brent levende. Været ved Larsok vil vare til Barsok, 24. august. Merket er en rist. (Jeg har også sett LARSMESSE 3. august)",
+        "date": "Wed Aug 10 2016 00:00:00 GMT+0200 (Central European Summer Time)",
+        "rune": "ᛚᚬᚱᛋᛘᛅᛋᛋᛅ"
+    },
+    {
+        "eventName": "TIBERTIUS",
+        "description": "Dagen er til minne om den hellige Tibertius som ble omvendt av den hellige Sebastian.",
+        "date": "Thu Aug 11 2016 00:00:00 GMT+0200 (Central European Summer Time)",
+        "rune": "ᛏᛁᛒᛅᚱᛏᛁᚢᛋ"
+    },
+    {
+        "eventName": "MARIAS HIMMELFART",
+        "description": "De første frostnettene sto nå for døren, og folk ba til Jomfru Maria om at hun i sin himmel skulle gå i forbønn for dem, slik at det ikke ble uår. (Mariamesse (første) i motsetning til Mariamesse (sene) 8. september.) Merket er et et kronet kors.",
+        "date": "Mon Aug 15 2016 00:00:00 GMT+0200 (Central European Summer Time)",
+        "rune": "ᛘᚬᚱᛁᚬᛋ ᚼᛁᛘᛘᛅᛚᚠᚬᚱᛏ"
+    },
+    {
+        "eventName": "HUNDDAGENE",
+        "description": "HUNDDAGENE går ut. Jeg har ikke sett denne dagen avmerket på noen primstav.",
+        "date": "Tue Aug 23 2016 00:00:00 GMT+0200 (Central European Summer Time)",
+        "rune": "ᚼᚢᚾᚦᚦᚬᚴᛅᚾᛅ"
+    },
+    {
         "eventName": "BARSOK",
         "description": "eller St. Bartholomeus-messe. Apostelen Bartholomeus var en av de 12 apostler og ifølge tradisjonene reiste han på misjonsferd til India. Nå skal bukkene slaktes. Første høstdag med alle trollene ute. Merket er en kniv.  \nhttp://home.online.no/~agn-nil/sub/primstav_vaer/primstav.html\n",
-        "date": "Mon Aug 24 2015 00:00:00 GMT+0200 (Central European Summer Time)"
+        "date": "Mon Aug 24 2015 00:00:00 GMT+0200 (Central European Summer Time)",
+        "rune": "ᛒᚬᚱᛋᚬᚴ"
     },
     {
-        "runes":"ᚴᚢᛁᚱᚾᚴᚾᛅᚱᚱᛁᚾ",
         "eventName": "KVERNKNARREN",
         "description": "Opprinnelig St. Ægidius dag. St. Ægedius (el. St. Egedius) grunnla et kloster i Frankrike år 700. \nMerkedag for hvordan det skulle bli med vann for korn-kvernene utover høsten. \nVar denne dagen uten regn, varslet det mangel på kvernvann denne høsten.\n(Kilde: David Andersens primstav).\nMerket er en kvern eller kvernknarren.  \nhttp://home.online.no/~agn-nil/sub/primstav_vaer/primstav.html",
-        "date": "Tue Sep 01 2015 00:00:00 GMT+0200 (Central European Summer Time)"
+        "date": "Tue Sep 01 2015 00:00:00 GMT+0200 (Central European Summer Time)",
+        "rune": "ᚴᚢᛅᚱᚾᚴᚾᚬᚱᚱᛅᚾ"
     },
     {
-        "runes":"ᛒᚱᛁᛏᛁᛘᛁᛋᛋᛁ",
+        "eventName": "MARIMESSENE",
+        "description": "Jomfru Marias fødselsdag. Denne dagen skal sauene klippes. Er det godt vær, bli høsten god.Merket er ei Marikrone.   ",
+        "date": "Tue Sep 08 2015 00:00:00 GMT+0200 (Central European Summer Time)",
+        "rune": "ᛘᚬᚱᛁᛘᛅᛋᛋᛅᚾᛅ"
+    },
+    {
+        "eventName": "FINGERGULLMESSE",
+        "description": "(eller FINGERGULLFESTEN). \nI Nordland ble dagen også kalt &quot;saueklippedagen&quot;. \nDagen har sitt navn etter at noe av Jesu blod kom til Nidaros - trolig i 1161. Navnet kommer av at blodet ble oppbevart i en kapsel på en fingerring av gull. Historien forteller at erkebiskop Øystein Erlandsson (erkebiskop 1157 - 1188) foretok sin reise til Roma i 1160 - 1161, da han ble vigslet av pave Alexander III og mottok sitt pallium (beviset på vigselen). Et pallium er en hvit ullkrave med seks svarte kors - opprinnelig bare brukt av paven, men senere også av erkebiskopene. Dagen ble en av de største kirkefestene i Nidaros frem til reformasjonen i 1536. Høytideligheten startet med vesper (aftensang) på denne dagen og ble avsluttet med vesper dagen etter. Det ble sunget tidebønner som handlet utelukkende om blod, blodets mysterium og forvandlingen av vinen ved nattverden. Disse sangene er i komplett utgave oppbevart i København i dag.  ",
+        "date": "Sat Sep 12 2015 00:00:00 GMT+0200 (Central European Summer Time)",
+        "rune": "ᚠᛁᚾᚴᛅᚱᚴᚢᛚᛚᛘᛅᛋᛋᛅ"
+    },
+    {
+        "eventName": "KORSMESSE",
+        "description": "(den lille), til minne om at det hellige kors ble erobret tilbake fra perserne. Nå skal kornet være i hus. Siste frist for å føre dyrene ned fra setra. Merket er et kors.  ",
+        "date": "Mon Sep 14 2015 00:00:00 GMT+0200 (Central European Summer Time)",
+        "rune": "ᚴᚬᚱᛋᛘᛅᛋᛋᛅ"
+    },
+    {
+        "eventName": "MATTEUSMESSE",
+        "description": "efter Apostelen Matheus.\nDen hellige Matteus ble født i Galilea i det første århundret. Han arbeidet som toller i Kapernaum. Den gang var tollerne en forhatt og foraktet yrkesgruppe i romernes tjeneste. De ble ansett som landsforrædere, og det var en allmenn oppfatning at de supplerte lønnen med utpressing. Tollerne på den tiden var utelukket fra det religiøse fellesskapet i templet og de ble unngått i sosiale og forretningsmessige sammenhenger.\n\nSankt Matteus er også kjent som evangelisten Matteus. Det første evangeliets forfatterskap tilskrives etter tradisjonen Matteus. Han skal ha skrevet sitt evangelium på vei til Egypt, der han spredde det kristne budskap og omvendte mange.\n\nEn legende forteller at Matteus vekte opp den skjønne prinsessen Iphigenia av Etiopia fra de døde. Prinsessen viste sin takknemlighet ved å love å leve i evig kyskhet. Da hennes onkel overtok tronen, ville han gifte seg med den vakre prinsessen. Hun var imidlertid standhaftig, og støttet av Matteus holdt Iphigenia sitt løfte om kyskhet. Den nye kongen ga da ordre om at Matteus skulle drepes. Det skjedde med lanse mens han feiret messe ved alteret.\n\nDe antatte relikvier etter Matteus oppbevares i krypten i katedralen i Salerno, Italia.\n\nMatteus ble utnevnt til skytshelgen for italienske bokholdere av pave Pius i 1954 og for skatteoppkrevere og tollfunksjonærer i 1957. I dag er Matteus også skytshelgen for finans- og bankansatte, regnskapsfolk, bokholdere og sikkerhetsvakter. Han symboliserer også kampen mot alkoholisme.\n\nDet finnes et maleri av St. Matteus på prekestolen i Skibtvedt kirke i Østfold -- Tekst: Anita Grandal\n\nNå er det tid for å lauve. Bjørnen samler gress og mose til vinterhiet. Merket er en øks.  ",
+        "date": "Mon Sep 21 2015 00:00:00 GMT+0200 (Central European Summer Time)",
+        "rune": "ᛘᚬᛏᛏᛅᚢᛋᛘᛅᛋᛋᛅ"
+    },
+    {
+        "eventName": "MIKKELSMESSE",
+        "description": "erkeengelen Michaels dag, i katolsk tid en høytidsdag på linje med juledag og Maria Bebudelsesdag. Frem til 1770 var 29. september helligdag i Norge. Dagen markerte at nå burde innhøstingen være ferdig og jakttiden begynte. Primstaven kan ha forskjellige tegn for å markere Mikkelsmesse. Erkeengelens ansikt med strålekrans er en av dem, skålvekta er en annen. Mikkelsmesse ble feiret for å takke for guds omsorg og vår takk for alle gode gaver i skaperverket og i årets grøde.\nI Amerika har de sin Thanksgiving Day.\n\nNå skulle avlingen være i hus. Været er slik det bli neste sommer. Merket er en vekt.  ",
+        "date": "Tue Sep 29 2015 00:00:00 GMT+0200 (Central European Summer Time)",
+        "rune": "ᛘᛁᚴᚴᛅᛚᛋᛘᛅᛋᛋᛅ"
+    },
+    {
         "eventName": "BRITEMESSE",
         "description": "efter Sta. Brita eller Birgitta, av Vadstena, en svensk adelsdame (1303-1373) om hvem det fortelles at hun ofte så og hørte Kristus og av ham fikk diktert reglene for en ny klosterorden. Denne dagen går også bjørnen i hi. Nå skal kålen høstes, også kalt KÅLDAGEN. Merket er en krone.  \nhttp://home.online.no/~agn-nil/sub/primstav_vaer/primstav.html",
-        "date": "Wed Oct 07 2015 00:00:00 GMT+0200 (Central European Summer Time)"
+        "date": "Wed Oct 07 2015 00:00:00 GMT+0200 (Central European Summer Time)",
+        "rune": "ᛒᚱᛁᛏᛅᛘᛅᛋᛋᛅ"
     },
     {
-        "runes":"ᛅᛚᛚᛁᚼᛁᛚᚴᛁᚾᛋᛏᛅᚴ",
-        "eventName": "ALLEHELGENSDAG ",
-        "description": "eller HELGEMESSE er en gammel minnefest for alle helgener og martyrer. I den gresk-ortodokse kirke feires det , siden det 4. århundre, første søndag efter pinse som &quot;alle martyrers fest&quot;. I den romersk-katolske kirke ble Allehelgensdag i år 610 innstiftet, og den ble i det 9. århundre av pave Gregor IV henlagt til 1. november. (Jeg har også sett skrevet at dagen ble innstiftet av pave Bonifacius). Efter reformasjonen ble denne dagen slått sammen med 31. oktober, da Luther slo opp sine 95 teser om avlat, og lagt til nærmeste søndag.\nI den norske kirke er Allehelgensdag henlagt til 1. søndag i november. I Norge blir denne dag også kalt helgemess, som i den gamle folkelige tidsregningen er en av de viktige merkedagene.\n\nDenne dagen ble på primstaven betegnet med en omvendt båt eller skip.\n\nI Amerika kalles denne dagen &quot;HALLOWEEN&quot; og blir feiret med pomp og prakt.\n\nHelgener er etter katolsk kirkelære hellige menn og kvinner, som efter sin død er gått inn til den evige salighet. Martyrer kalles de kristne «blodvitnere» som i forfølgelsen led døden for troens skyld. Deres ben ble betraktet som hellige relikvier, kirker ble bygd, eller alter ble reist over deres graver.\n\nDet mentes også at martyrer gikk i forbønn for menigheten hos Gud. Således fremkom helgendyrkelse. Øverst blant alle helgener finner vi Jomfru Maria, deretter apostler, evangelister, martyrer og mange av kirkens store skikkelser som har kjempet og lidt for sin tro.\n\nI nyere tid har vi nordmenn gjort Allehelgensdag om til en minnedag for våre døde forfedre. Tradisjonen i dag er at vi går til våre gravsteder og pynter med en krans eller gravbukett. Dette er blitt en fin og verdig tradisjon.\n\nBåtene skal legges i opplag for vinteren. Denne natten er man sanndrømt. Merket er et skip.  \nhttp://home.online.no/~agn-nil/sub/primstav_vaer/primstav.html\n",
-        "date": "Sun Nov 01 2015 00:00:00 GMT+0100 (Central European Standard Time)"
+        "eventName": "DINESMESSE",
+        "description": "som har fått navnet etter den hellige Dionysius, som var den første biskop av Paris. Han led martyrdøden i år 286. På denne dag ventes, ifølge gammel tro, sterk vind slik at resten av løvet blåser av trærne.  ",
+        "date": "Fri Oct 09 2015 00:00:00 GMT+0200 (Central European Summer Time)",
+        "rune": "ᚦᛁᚾᛅᛋᛘᛅᛋᛋᛅ"
     },
     {
-        "runes":"ᚢᚱᛋᚢᛚᛅ",
+        "eventName": "VINTERNATT",
+        "description": "eller Vinterdag. Her begynner vintersiden på primstavene. Til minne om St Calixtus. Denne dagen spår vinterværet. Snøen kan for alvor forventes. Vanten (vått) i tegnet skriver seg antagelig fra likheten mellom de gamle ord vetr (vinter) og vottre (vante). Merket er ev vott.  ",
+        "date": "Wed Oct 14 2015 00:00:00 GMT+0200 (Central European Summer Time)",
+        "rune": "ᚢᛁᚾᛏᛅᚱᚾᚬᛏᛏ"
+    },
+    {
         "eventName": "URSULA ",
         "description": "eller jomfrudagen. Sta. Ursula og de 11 000 jomfruer. Ursula var efter legenden en kristen kongsdatter fre Brittania, som på hjemveien fra en pilgrimsreise til Rom, sammen med sitt følge av jomfruer, ble drept av hunnerne i Køln. Denne dag skal det ikke arbeides med noe som går rundt, som rokkehjul eller lignende. Merket er et hjul.  ",
-        "date": "Wed Oct 21 2015 00:00:00 GMT+0200 (Central European Summer Time)"
+        "date": "Wed Oct 21 2015 00:00:00 GMT+0200 (Central European Summer Time)",
+        "rune": "ᚢᚱᛋᚢᛚᚬ "
     },
     {
-        "runes":"ᛅᚾᛏᚱᛁᛋᛘᛁᛋᛋᛁ",
-        "eventName": "ANDRESMESSE",
-        "description": "eller ANDREASMESSE til minne om Apostelen Andreas, (fiskeren, derfor fiskekroken som symbol), bror av Peter, ble efter sagnet korsfestet på et liggende kors. Den gresk-ortodokse kirke i Russland æret ham som sin spesielle apostel. Nå skal folk fiske julefisken. Merket er vanligvis en fiskekrok men kan være et skjevt kors, en nøkkel, en revesaks eller et Andreaskors.  ",
-        "date": "Mon Nov 30 2015 00:00:00 GMT+0100 (Central European Standard Time)"
+        "eventName": "SIMONMESSE",
+        "description": "efter Apostlene Simon Zelotes og Judas. Også kalt Førebod. Nå kan vinterværet forvenes og det skulle bli sledeføre. Buskapen skal ha full vinterforing. Merket er et spyd, et sverd eller en sag.  ",
+        "date": "Wed Oct 28 2015 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᛋᛁᛘᚬᚾᛘᛅᛋᛋᛅ"
     },
     {
-        "runes":"ᚴᛅᚱᛁᛘᛁᛋᛋᛁ",
-        "eventName": "KARIMESSE",
-        "description": "til minne om Den hellige Katharina av Alexandria, drept i år 305 efter først å ha vært pint med et pigghjul. Hjulet har vært avbildet i de eldre primstaver og det er mistydet som et spinnehjul. Dagen kalles -Kari med rokken- og minnet om at nå var spinnetiden inne. Hvis dagen er klar, blir det vakre julelys (vellykket lysestøping). N kan klesvasken gjøres. Merket er vanligvis et hjul men kan være et sverd, en krone, en melbinge eller en spinnerokk.  ",
-        "date": "Wed Nov 25 2015 00:00:00 GMT+0100 (Central European Standard Time)"
+        "eventName": "ALLEHELGENSDAG ",
+        "description": "eller HELGEMESSE er en gammel minnefest for alle helgener og martyrer. I den gresk-ortodokse kirke feires det , siden det 4. århundre, første søndag efter pinse som &quot;alle martyrers fest&quot;. I den romersk-katolske kirke ble Allehelgensdag i år 610 innstiftet, og den ble i det 9. århundre av pave Gregor IV henlagt til 1. november. (Jeg har også sett skrevet at dagen ble innstiftet av pave Bonifacius). Efter reformasjonen ble denne dagen slått sammen med 31. oktober, da Luther slo opp sine 95 teser om avlat, og lagt til nærmeste søndag.\nI den norske kirke er Allehelgensdag henlagt til 1. søndag i november. I Norge blir denne dag også kalt helgemess, som i den gamle folkelige tidsregningen er en av de viktige merkedagene.\n\nDenne dagen ble på primstaven betegnet med en omvendt båt eller skip.\n\nI Amerika kalles denne dagen &quot;HALLOWEEN&quot; og blir feiret med pomp og prakt.\n\nHelgener er etter katolsk kirkelære hellige menn og kvinner, som efter sin død er gått inn til den evige salighet. Martyrer kalles de kristne «blodvitnere» som i forfølgelsen led døden for troens skyld. Deres ben ble betraktet som hellige relikvier, kirker ble bygd, eller alter ble reist over deres graver.\n\nDet mentes også at martyrer gikk i forbønn for menigheten hos Gud. Således fremkom helgendyrkelse. Øverst blant alle helgener finner vi Jomfru Maria, deretter apostler, evangelister, martyrer og mange av kirkens store skikkelser som har kjempet og lidt for sin tro.\n\nI nyere tid har vi nordmenn gjort Allehelgensdag om til en minnedag for våre døde forfedre. Tradisjonen i dag er at vi går til våre gravsteder og pynter med en krans eller gravbukett. Dette er blitt en fin og verdig tradisjon.\n\nBåtene skal legges i opplag for vinteren. Denne natten er man sanndrømt. Merket er et skip.  \nhttp://home.online.no/~agn-nil/sub/primstav_vaer/primstav.html\n",
+        "date": "Sun Nov 01 2015 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᚬᛚᛚᛅᚼᛅᛚᚴᛅᚾᛋᚦᚬᚴ "
     },
     {
-        "runes":"ᚼᚢᛁᚴᛅᚠᚠᛁᛚ",
+        "eventName": "MORTENMESSE ",
+        "description": "til minne om St. Martin - biskop av Tours. Han var så from at han da han skulle velges til biskop, - rømte og gjemte seg blant gjessene. Derav skikken med å spise gås, Mortensgås. Er dagen klar, blir det en hard vinter. Merket er en gås.  ",
+        "date": "Wed Nov 11 2015 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᛘᚬᚱᛏᛅᚾᛘᛅᛋᛋᛅ "
+    },
+    {
+        "eventName": "Anianus",
+        "description": "Dagen er til minne om Anianus, biskop av Orleans, tidligere eneboer. Da hunnerne under Attila rykket frem, var det like meget Anianus bønn som forsvarernes tapperhet å takke for at fienden ble beseiret. Anianus døde år 453.  ",
+        "date": "Tue Nov 17 2015 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᚬᚾᛁᚬᚾᚢᛋ"
+    },
+    {
+        "eventName": "Hestesko",
+        "description": "Merket er en hestesko.  ",
+        "date": "Thu Nov 19 2015 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᚼᛅᛋᛏᛅᛋᚴᚬ"
+    },
+    {
         "eventName": "Høygaffel",
         "location": "Høygaffel",
         "description": "Merket er en høygaffel med høy.  ",
-        "date": "Fri Nov 20 2015 00:00:00 GMT+0100 (Central European Standard Time)"
+        "date": "Fri Nov 20 2015 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᚼᛦᛦᚴᚬᚠᚠᛅᛚ"
     },
     {
-        "runes":"ᚴᛚᛁᛘᛁᛏᛋᛘᛁᛋᛋᛁ",
-        "eventName": "KLEMETSMESSE",
-        "description": " eller BÅTSOK til minne om en av de første biskoper av Rom, St. Clemens, som led martyrdøden ca. år 100. Nå skulle alle skip ligge for anker. Dagen er også kalt BÅTSOK. Merket er en kirkebygning eller et anker.\nArtikkel i Rana Blad fredag 23. november 2001:\n\nSt. Clemans I. var den fjerde biskopen (paven) i Roma og hadde embetet mellom ca. år 88 og ca. år 97.\n\nClemens - kirkebyggeren. \nHer kommer resten av teksten i artikkelen: St. Clemens omvendte en rekke fornemme damer, blent andre ...  ",
-        "date": "Mon Nov 23 2015 00:00:00 GMT+0100 (Central European Standard Time)"
-    },
-    {
-        "runes":"ᚴᚱᚬᚾᛁᛏ ᚼᚬᛏᛁ",
         "eventName": "Kronet hode",
         "description": "Merket er et Kronet hode med strå lering, offer.  ",
-        "date": "Sat Nov 21 2015 00:00:00 GMT+0100 (Central European Standard Time)"
+        "date": "Sat Nov 21 2015 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᚴᚱᚬᚾᛅᛏ ᚼᚬᚦᛅ"
     },
     {
-        "runes":"",
+        "eventName": "KLEMETSMESSE",
+        "description": " eller BÅTSOK til minne om en av de første biskoper av Rom, St. Clemens, som led martyrdøden ca. år 100. Nå skulle alle skip ligge for anker. Dagen er også kalt BÅTSOK. Merket er en kirkebygning eller et anker.\nArtikkel i Rana Blad fredag 23. november 2001:\n\nSt. Clemans I. var den fjerde biskopen (paven) i Roma og hadde embetet mellom ca. år 88 og ca. år 97.\n\nClemens - kirkebyggeren. \nHer kommer resten av teksten i artikkelen: St. Clemens omvendte en rekke fornemme damer, blent andre ...  ",
+        "date": "Mon Nov 23 2015 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᚴᛚᛅᛘᛅᛏᛋᛘᛅᛋᛋᛅ"
+    },
+    {
+        "eventName": "KARIMESSE",
+        "description": "til minne om Den hellige Katharina av Alexandria, drept i år 305 efter først å ha vært pint med et pigghjul. Hjulet har vært avbildet i de eldre primstaver og det er mistydet som et spinnehjul. Dagen kalles -Kari med rokken- og minnet om at nå var spinnetiden inne. Hvis dagen er klar, blir det vakre julelys (vellykket lysestøping). N kan klesvasken gjøres. Merket er vanligvis et hjul men kan være et sverd, en krone, en melbinge eller en spinnerokk.  ",
+        "date": "Wed Nov 25 2015 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᚴᚬᚱᛁᛘᛅᛋᛋᛅ"
+    },
+    {
+        "eventName": "ANDRESMESSE",
+        "description": "eller ANDREASMESSE til minne om Apostelen Andreas, (fiskeren, derfor fiskekroken som symbol), bror av Peter, ble efter sagnet korsfestet på et liggende kors. Den gresk-ortodokse kirke i Russland æret ham som sin spesielle apostel. Nå skal folk fiske julefisken. Merket er vanligvis en fiskekrok men kan være et skjevt kors, en nøkkel, en revesaks eller et Andreaskors.  ",
+        "date": "Mon Nov 30 2015 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᚬᚾᚦᚱᛅᛋᛘᛅᛋᛋᛅ"
+    },
+    {
         "eventName": "ARNOLD",
         "description": "Dagen er til minne om Arnold, fransiskanermunk som dro til Kina for å utbrede kristendommen.  \nhttp://home.online.no/~agn-nil/sub/primstav_vaer/primstav.html",
-        "date": "Tue Dec 01 2015 00:00:00 GMT+0100 (Central European Standard Time)"
+        "date": "Tue Dec 01 2015 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᚬᚱᚾᚬᛚᚦ"
     },
     {
-        "runes":"",
-        "eventName": "LUSSINATT",
-        "description": "eller Luciadagen. Sta. Lucia var en ung kvinne som led martyrdøden i Syrakus år 304. Dagen falt i middelalderen sammen med vintersolverv, og dette er bakgrunnen for skikken med Lucia-lys osv. Lussinatt var troll og tusser ute. Grovarbeidet skulle være ferdig. Merket er en lysestake, en fakkel, et bål, et lys eller et kors. ",
-        "date": "Sun Dec 13 2015 00:00:00 GMT+0100 (Central European Standard Time)"
-    },
-    {
-        "runes":"",
-        "eventName": "MARIUS OG MARTA",
-        "description": "Til minne om presten Marius og hans hustru Marta som led martyrdøden fordi de besøkte kristne i fengslene. ",
-        "date": "Tue Jan 19 2016 00:00:00 GMT+0100 (Central European Standard Time)"
-    },
-    {
-        "runes":"",
-        "eventName": "POLYKARP",
-        "description": "Dagen er til minne om Polycarpus, biskop fra Smyrna som led martyrdøden 86 år gammel i år 166. ",
-        "date": "Tue Jan 26 2016 00:00:00 GMT+0100 (Central European Standard Time)"
-    },
-    {
-        "runes":"",
-        "eventName": "SOLKVERVSDAG",
-        "description": "Nå snur sola. Solhov. Værendring kan ventes denne dagen. Alt fast blir løst det øyeblikk sola snur. Merket er en sol, et halvt kors eller en skrapestang med sopelime i enden.  ",
-        "date": "Wed Dec 23 2015 00:00:00 GMT+0100 (Central European Standard Time)"
-    },
-    {
-        "runes":"",
-        "eventName": "TOLVTEDAG JUL",
-        "description": "Dagen ble også kalt hellige trekongersaften og var julekveld i gammel tid. Folk flest gjestet hverandre. Det var skikk å bake en bønne eller mandel inn i en formidabe pudding. Hver gjest mottok sin beskårne del, og den som fikk bønnen eller mandelen i munnen ble utropt til bønnekonge. Var det en kvinne, overdro hun verdigheten til ham som hun syntes best om. Bønnekongen ble da festens herre og skjenkemester.) ",
-        "date": "Tue Jan 05 2016 00:00:00 GMT+0100 (Central European Standard Time)"
-    },
-    {
-        "runes":"",
-        "eventName": "NYTTÅRSDAG",
-        "description": "eller Ottende dag jul. &quot;La Våra råde i år - han rådde så vel i fjor&quot;, sa de gamle. Jesu omskjæring. Nyttårsdag klar, gir godt år. Pålandsvind spår godt godt fiske. Merket er Jesu tempel, et timeglass, en kirke eller et hjul. ",
-        "date": "Fri Jan 01 2016 00:00:00 GMT+0100 (Central European Standard Time)"
-    },
-    {
-        "runes":"",
-        "eventName": "Tre",
-        "description": "Merket er et tykkgrenet tre eller en bispestav. ",
-        "date": "Thu Jan 14 2016 00:00:00 GMT+0100 (Central European Standard Time)"
-    },
-    {
-        "runes":"",
-        "eventName": "Kanne",
-        "description": "Merket kan være en kanne, en kvinne, et kors, et hode eller en gren.  ",
-        "date": "Wed Dec 09 2015 00:00:00 GMT+0100 (Central European Standard Time)"
-    },
-    {
-        "runes":"",
-        "eventName": "PÅLSMESSE",
-        "description": "eller &quot;Pål skytter&quot; til minne om Apostelen Paulus, som den dag ble omvendt til kristendommen. Pålsmesse ga bud om vær og år. Merket er en bue, et sverd eller en fisk. ",
-        "date": "Mon Jan 25 2016 00:00:00 GMT+0100 (Central European Standard Time)"
-    },
-    {
-        "runes":"",
-        "eventName": "NILSMESSE",
-        "description": "til minne om St. Nicolaus biskop i Myra i Lilleasia, død ca. 350, var de sjøfarendes helgen, og efter Nilsmesse skulle intet skje til sjøss. Han var kjent for sine undere og sin gavmildhet. I middelalderen ble han også skolebarnas helgen og er som sådan i de engelsktalende land blitt til Santa Claus, (efterhvert en slags julenisse). Merket kan være en bispelue, en krum stav, kors, hjul eller en orm.  ",
-        "date": "Sun Dec 06 2015 00:00:00 GMT+0100 (Central European Standard Time)"
-    },
-    {
-        "runes":"",
-        "eventName": "TROLLMESSE",
-        "description": "Jeg har også sett at 22.-23. desember er TROLLMESSE og er til minne om Torlak Helgi Torhaldsson som var biskop i Skáholt på Island fra 1178. Han opprettet det første nonneklosteret på Island i 1186. Nå var gårdens menn grytidlig opp og hogg juleved. Det skulle også treskes slik at det ligger korn på låven i julen. Kvinnene var oppe hele natten for å bake. Alle inkludert tjenestefolk skulle ha hvær sin kake til jul. ",
-        "date": "Tue Dec 22 2015 00:00:00 GMT+0100 (Central European Standard Time)"
-    },
-    {
-        "runes":"",
-        "eventName": "BARNEDAGEN",
-        "description": "Dagen er til minne om de uskyldige barn som kong Herodes lot drepe. I dag er det besøkelsesdag for barna. Barn skal få besøke og traktere hverandre. De kan også få løpe på isen med &quot;iskegger&quot;., som de har stor fornøyelse av. Om kvelden danser de i ring i gildestua.\nMerket er et sverd, et drikkehorn eller et halvt kors. ",
-        "date": "Mon Dec 28 2015 00:00:00 GMT+0100 (Central European Standard Time)"
-    },
-    {
-        "runes":"",
-        "eventName": "REINHOLD",
-        "description": "Dagen er til minne om Reinhold som døde i 960. Han var benediktinermunk ved et kloster i Köln. Han var satt til å holde oppsyn med et kirkebygg. Da han mente at arbeidet gikk for sent, tok han selv et tak for å få opp tempoet. Det kostet ham livet. Arbeiderne knuste hodet hans og kastet ham i Rhinen. Merket er et smøkrystall ",
-        "date": "Tue Jan 12 2016 00:00:00 GMT+0100 (Central European Standard Time)"
-    },
-    {
-        "runes":"",
-        "eventName": "Kors",
-        "description": "Merket er et lite kors, en klokke, eller en svpe. ",
-        "date": "Thu Jan 07 2016 00:00:00 GMT+0100 (Central European Standard Time)"
-    },
-    {
-        "runes":"",
-        "eventName": "HILDE",
-        "description": "Dagen er til minne om Hilde, som 13 år gammel ble kristen sammen med sin onkel, kong Edwin av Northumberland. 20 år senere ble hun valgt til abedisse av St. Aidan. Ytterligere noen år senere grunnla hun klosteret i Whitby, der hun levde til sin død. ",
-        "date": "Tue Dec 15 2015 00:00:00 GMT+0100 (Central European Standard Time)"
-    },
-    {
-        "runes":"",
-        "eventName": "Dødningeskalle",
-        "description": "Merket er en dødningeskalle. ",
-        "date": "Sun Jan 24 2016 00:00:00 GMT+0100 (Central European Standard Time)"
-    },
-    {
-        "runes":"",
-        "eventName": "TRETTANDAG ",
-        "description": "De hellige tre kongers dag. Dagen ble holdt jevngod med juledag. Slutt på romjulshelgen Vi er midt i vintersesongen. Merket er tre kors, tre menn eller tre kroner. ",
-        "date": "Wed Jan 06 2016 00:00:00 GMT+0100 (Central European Standard Time)"
-    },
-    {
-        "runes":"",
-        "eventName": "TOMASMESSE",
-        "description": "til minne om Apostelen Tomas. Festdagen for Apostelen Thomas. St. Tomas la sin hånd i Kristi sår.  Han virket i Persia og India og led martyrdøden. Den dagen skulle juleølet has på tønne og folk skulle dra rundt å smake juleølet. Videre ventet folk tøvær den dagen, så det ble lettere å bake - derav KAKELINNA. Merket er en oppstrakt hånd, ett kors eller en tønne. ",
-        "date": "Mon Dec 21 2015 00:00:00 GMT+0100 (Central European Standard Time)"
-    },
-    {
-        "runes":"",
-        "eventName": "Klokke",
-        "description": "Merket er en klokke eller et svin. ",
-        "date": "Sun Jan 17 2016 00:00:00 GMT+0100 (Central European Standard Time)"
-    },
-    {
-        "runes":"",
-        "eventName": "Ørn",
-        "description": "Merket er en ørn (fiskeørn). ",
-        "date": "Sun Dec 27 2015 00:00:00 GMT+0100 (Central European Standard Time)"
-    },
-    {
-        "runes":"",
-        "eventName": "BRETTESMESSE",
-        "description": "Opprinnelig Sta. Brictiva messe. &quot;Brette&quot; er her brukt i betydningen å dele opp (brekke) noe i småstykker. Denne dag skal du ikke kjøre hest. Alle julens matrester skal brekkes og legges i gryta. Merket er en hest, en øks, et kors eller et flagg. ",
-        "date": "Mon Jan 11 2016 00:00:00 GMT+0100 (Central European Standard Time)"
-    },
-    {
-        "runes":"",
-        "eventName": "BRØDREMESSE",
-        "description": "Fordi denne dagen var viet til to helgener. St. Fabian og St. Sebastian, trodde folk var to brødre - hvilket de ikke var. ",
-        "date": "Wed Jan 20 2016 00:00:00 GMT+0100 (Central European Standard Time)"
-    },
-    {
-        "runes":"",
-        "eventName": "JULEDAG",
-        "description": "Kristi fødsel. Denne dagen skulle man holde seg hjemme. Blåser det sønnavind julenatt, blir det en mild vinter. Tegnet for denne dag skal opprinnelig ha vært et &quot;reive-barn&quot;, men gjennom misstydninger er det blitt til et drikkehorn. Merket er et hjul, en sol, et kors, en syv-armet lysestake eller et drikkehorn.\n\n25. - 27. desember kunne man ta varsler for fiske, avling og kjærlighet samt liv og død. I Nord Norge tok de et fat og fylte det med rent sjøvann. Så satte de fatet på bordet og la en duk over, og ingen måtte se i fatet før juledagsmorgen. Rundt kantene på fatet skrev de navnene på de viktigste fiskeværene: Kabelvåg, Stamsund, Røst, Ballstad, osv. Den som først våknet om morgenen, gikk stille og uten å snakke med noen, bort til fatet, løftet forsiktig av duken, og der kunne han se luftblærer på bunnen og rundt kantene. Der blærene stod tettest, skulle det bli det beste fisket kommende år. ",
-        "date": "Fri Dec 25 2015 00:00:00 GMT+0100 (Central European Standard Time)"
-    },
-    {
-        "runes":"",
-        "eventName": "MARIAS UNNFANGELSE",
-        "description": "Ni måneder før Jomfru Marias fødselsdag, 8. september. Dagen er til minne om at den hellige Anna fødte Maria uten synd. Denne dag sa munkene at Maria tok deil i sin retning, ellers hadde hun ikke reist til Betlehem. De gamle kalte derfor dagen &quot;Vår frue Marias ventedør&quot;. Denne dagen ba fruksommelige kvinner til Jomfru Maria om en god fødsel. Kvinner ba også om lov til å bli gravide. Nå skulle juleølet brygges og klærne skulle vaskes hvite til jul. Merket er et kors, en fiskenot, en mariakrone eller en Mariafigur.  ",
-        "date": "Tue Dec 08 2015 00:00:00 GMT+0100 (Central European Standard Time)"
-    },
-    {
-        "runes":"",
-        "eventName": "NYTTÅRSAFTEN",
-        "description": "Dette var en farlig aften. All slags trollskap var ute. For å holde trollskapet borte, skjøt de skudd over hustakene. I senere tid gikk skikken over til å skyte inn det nye året.\nMerket er et hjul eller et timeglass. ",
-        "date": "Thu Dec 31 2015 00:00:00 GMT+0100 (Central European Standard Time)"
-    },
-    {
-        "runes":"",
-        "eventName": "TJUGENDAG ",
-        "description": "eller Tjuendedag jul. St. Knut. Knut jager julen ut. Dette var gamle nyttårsdag. Emnetre skal hugges. Nå skulle julen ringes ut - og juleølet drikkes opp. &quot;Det var godt strå som korn og brød var i enden på&quot;. Merket er en øks, et omsnudd drikkehorn eller en omsnudd klokke. ",
-        "date": "Wed Jan 13 2016 00:00:00 GMT+0100 (Central European Standard Time)"
-    },
-    {
-        "runes":"",
         "eventName": "BARBROMESSE",
         "description": "til minne om Den hellige Barbara (død 306) ble av katolikkene påkalt særlig ved bønner mot uvær. Nå skal en ta til med spøting (det samme som strikking) og spinning til jule og vinterklær. Sola går bort og kommer ikke tilbake før Lussinatt 13. desember. Merket kan være et kors med ringer, lenker, sol, kors, tårn, slede eller rokk.  ",
-        "date": "Fri Dec 04 2015 00:00:00 GMT+0100 (Central European Standard Time)"
+        "date": "Fri Dec 04 2015 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᛒᚬᚱᛒᚱᚬᛘᛅᛋᛋᛅ"
     },
     {
-        "runes":"",
-        "eventName": "JULAFTEN",
-        "description": "Det fulgte lykke med alt arbeid som ble gjort julaften, og derfor ble mange små arbeider utsatt til denne dagen.\nMerket er en lur. ",
-        "date": "Thu Dec 24 2015 00:00:00 GMT+0100 (Central European Standard Time)"
+        "eventName": "NILSMESSE",
+        "description": "til minne om St. Nicolaus biskop i Myra i Lilleasia, død ca. 350, var de sjøfarendes helgen, og efter Nilsmesse skulle intet skje til sjøss. Han var kjent for sine undere og sin gavmildhet. I middelalderen ble han også skolebarnas helgen og er som sådan i de engelsktalende land blitt til Santa Claus, (efterhvert en slags julenisse). Merket kan være en bispelue, en krum stav, kors, hjul eller en orm.  ",
+        "date": "Sun Dec 06 2015 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᚾᛁᛚᛋᛘᛅᛋᛋᛅ"
     },
     {
-        "runes":"",
+        "eventName": "MARIAS UNNFANGELSE",
+        "description": "Ni måneder før Jomfru Marias fødselsdag, 8. september. Dagen er til minne om at den hellige Anna fødte Maria uten synd. Denne dag sa munkene at Maria tok deil i sin retning, ellers hadde hun ikke reist til Betlehem. De gamle kalte derfor dagen &quot;Vår frue Marias ventedør&quot;. Denne dagen ba fruksommelige kvinner til Jomfru Maria om en god fødsel. Kvinner ba også om lov til å bli gravide. Nå skulle juleølet brygges og klærne skulle vaskes hvite til jul. Merket er et kors, en fiskenot, en mariakrone eller en Mariafigur.  ",
+        "date": "Tue Dec 08 2015 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᛘᚬᚱᛁᚬᛋ ᚢᚾᚾᚠᚬᚾᚴᛅᛚᛋᛅ"
+    },
+    {
+        "eventName": "Kanne",
+        "description": "Merket kan være en kanne, en kvinne, et kors, et hode eller en gren.  ",
+        "date": "Wed Dec 09 2015 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᚴᚬᚾᚾᛅ"
+    },
+    {
+        "eventName": "LUSSINATT",
+        "description": "eller Luciadagen. Sta. Lucia var en ung kvinne som led martyrdøden i Syrakus år 304. Dagen falt i middelalderen sammen med vintersolverv, og dette er bakgrunnen for skikken med Lucia-lys osv. Lussinatt var troll og tusser ute. Grovarbeidet skulle være ferdig. Merket er en lysestake, en fakkel, et bål, et lys eller et kors. ",
+        "date": "Sun Dec 13 2015 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᛚᚢᛋᛋᛁᚾᚬᛏᛏ"
+    },
+    {
+        "eventName": "HILDE",
+        "description": "Dagen er til minne om Hilde, som 13 år gammel ble kristen sammen med sin onkel, kong Edwin av Northumberland. 20 år senere ble hun valgt til abedisse av St. Aidan. Ytterligere noen år senere grunnla hun klosteret i Whitby, der hun levde til sin død. ",
+        "date": "Tue Dec 15 2015 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᚼᛁᛚᚦᛅ"
+    },
+    {
+        "eventName": "TOMASMESSE",
+        "description": "til minne om Apostelen Tomas. Festdagen for Apostelen Thomas. St. Tomas la sin hånd i Kristi sår.  Han virket i Persia og India og led martyrdøden. Den dagen skulle juleølet has på tønne og folk skulle dra rundt å smake juleølet. Videre ventet folk tøvær den dagen, så det ble lettere å bake - derav KAKELINNA. Merket er en oppstrakt hånd, ett kors eller en tønne. ",
+        "date": "Mon Dec 21 2015 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᛏᚬᛘᚬᛋᛘᛅᛋᛋᛅ"
+    },
+    {
+        "eventName": "TROLLMESSE",
+        "description": "Jeg har også sett at 22.-23. desember er TROLLMESSE og er til minne om Torlak Helgi Torhaldsson som var biskop i Skáholt på Island fra 1178. Han opprettet det første nonneklosteret på Island i 1186. Nå var gårdens menn grytidlig opp og hogg juleved. Det skulle også treskes slik at det ligger korn på låven i julen. Kvinnene var oppe hele natten for å bake. Alle inkludert tjenestefolk skulle ha hvær sin kake til jul. ",
+        "date": "Tue Dec 22 2015 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᛏᚱᚬᛚᛚᛘᛅᛋᛋᛅ"
+    },
+    {
         "eventName": "VINTERSOLVERV",
         "description": "Dagen er til minne om &quot;Nordens Apostel&quot;, Ansgar, som i 826 kom til Danmark sammen med den nyfrelste kong Harald Klak. Ansgar virket som misjonær i Danmark og foretok flere reiser til Sverige. Ble i 831 Biskop av Bremen og ledet &quot;Den nordiske misjon&quot; fra sitt hovedsete i Hamburg til sin død. Dagen er også til minne om Japetus, en av Noas sønner, Jafet. I Beiarn og Salten ble denne dagen kalt &quot;Sjursmøssdajen&quot;, og var solsnudag en dag senere nordpå. ",
-        "date": "Tue Dec 22 2015 00:00:00 GMT+0100 (Central European Standard Time)"
+        "date": "Tue Dec 22 2015 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᚢᛁᚾᛏᛅᚱᛋᚬᛚᚢᛅᚱᚢ"
     },
     {
-        "runes":"",
-        "eventName": "DORTHEMESSE",
-        "description": " ",
-        "date": "Sat Feb 06 2016 00:00:00 GMT+0100 (Central European Standard Time)"
+        "eventName": "SOLKVERVSDAG",
+        "description": "Nå snur sola. Solhov. Værendring kan ventes denne dagen. Alt fast blir løst det øyeblikk sola snur. Merket er en sol, et halvt kors eller en skrapestang med sopelime i enden.  ",
+        "date": "Wed Dec 23 2015 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᛋᚬᛚᚴᚢᛅᚱᚢᛋᚦᚬᚴ"
     },
     {
-        "runes":"",
-        "eventName": "ÅGOTMESSE",
-        "description": "eller &quot;musedagen&quot;, til minne om Sta. Agatha, som led martyrdøden i år 251. Unge jenter skal ikke børste håret. Merket er en mus. ",
-        "date": "Fri Feb 05 2016 00:00:00 GMT+0100 (Central European Standard Time)"
+        "eventName": "JULAFTEN",
+        "description": "Det fulgte lykke med alt arbeid som ble gjort julaften, og derfor ble mange små arbeider utsatt til denne dagen.\nMerket er en lur. ",
+        "date": "Thu Dec 24 2015 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᛁᚢᛚᚬᚠᛏᛅᚾ"
     },
     {
-        "runes":"",
-        "eventName": "MATTISMESSE",
-        "description": "eller &quot;laup-årsmesse&quot; (skuddår) fordi man la inn en ekstra dag etter Mattis. Dage er til minne om St. Mathias. &quot;Mattis bryter is, er det ikke is, gjør han is&quot;. Merket er en M. ",
-        "date": "Wed Feb 24 2016 00:00:00 GMT+0100 (Central European Standard Time)"
+        "eventName": "JULEDAG",
+        "description": "Kristi fødsel. Denne dagen skulle man holde seg hjemme. Blåser det sønnavind julenatt, blir det en mild vinter. Tegnet for denne dag skal opprinnelig ha vært et &quot;reive-barn&quot;, men gjennom misstydninger er det blitt til et drikkehorn. Merket er et hjul, en sol, et kors, en syv-armet lysestake eller et drikkehorn.\n\n25. - 27. desember kunne man ta varsler for fiske, avling og kjærlighet samt liv og død. I Nord Norge tok de et fat og fylte det med rent sjøvann. Så satte de fatet på bordet og la en duk over, og ingen måtte se i fatet før juledagsmorgen. Rundt kantene på fatet skrev de navnene på de viktigste fiskeværene: Kabelvåg, Stamsund, Røst, Ballstad, osv. Den som først våknet om morgenen, gikk stille og uten å snakke med noen, bort til fatet, løftet forsiktig av duken, og der kunne han se luftblærer på bunnen og rundt kantene. Der blærene stod tettest, skulle det bli det beste fisket kommende år. ",
+        "date": "Fri Dec 25 2015 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᛁᚢᛚᛅᚦᚬᚴ"
     },
     {
-        "runes":"",
-        "eventName": "BLÅSMESSE",
-        "description": "Opprinnelig St. Blasius messe. Nok et eksempel p en forvanskning som har fått ny mening: Hvis det blåste sterkt den dagen, ville det bli vindfullt resten av året. Sjøfolk og fiskere måtte ikke nevne dagen med navn. Merket er en bøyd kvist. ",
-        "date": "Wed Feb 03 2016 00:00:00 GMT+0100 (Central European Standard Time)"
+        "eventName": "Ørn",
+        "description": "Merket er en ørn (fiskeørn). ",
+        "date": "Sun Dec 27 2015 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᛦᚱᚾ"
     },
     {
-        "runes":"",
-        "eventName": "PERSOK",
-        "description": "eller St. Peters stol eller Per Varmstein. Apostelen Petrus ble biskop på denne dag. At isen kunne begynne å gå opp på vann og elver på den tiden, mente folk kom av at St. Peter kastet varme steiner ned på isen. Fra denne dag begynner forøvrig isen å smelte rundt &quot;stokk og strå&quot;. Dagen ble regnet som første vårdagen. Nå løsner alle skip i vinterhavn. Merket er en nøkkel. ",
-        "date": "Mon Feb 22 2016 00:00:00 GMT+0100 (Central European Standard Time)"
+        "eventName": "BARNEDAGEN",
+        "description": "Dagen er til minne om de uskyldige barn som kong Herodes lot drepe. I dag er det besøkelsesdag for barna. Barn skal få besøke og traktere hverandre. De kan også få løpe på isen med &quot;iskegger&quot;., som de har stor fornøyelse av. Om kvelden danser de i ring i gildestua.\nMerket er et sverd, et drikkehorn eller et halvt kors. ",
+        "date": "Mon Dec 28 2015 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᛒᚬᚱᚾᛅᚦᚬᚴᛅᚾ"
     },
     {
-        "runes":"",
-        "eventName": "KYNDELSMESSE",
-        "description": "også kalt LYSMESSE, da kyndel kommer av det latinske navn på lys (candelæ, som også går igjen i kandelaber - stor lysestake). Marias renselsesfest. Dagen har ikke vert hellidag hos oss sidan 1770. Det er 40 dagar sidan Julaften. Denne dagen kan man vente hardt vær, men mildvær er et godt tegn. Merket er et tre. ",
-        "date": "Tue Feb 02 2016 00:00:00 GMT+0100 (Central European Standard Time)"
-    },
-    {
-        "runes":"",
-        "eventName": "GREGUSMESSE",
-        "description": "eller Gregorsmesse. Gregor den store, pave 590-604. Ofte forvansket til Groårsmesse og brukt som merkedag for vårværet. Er det sønnavind, kan man vente godt år. Gregors tid - natt og dag like vid. Nå kan en spise kveldsmat i dagslys. Merket er åkerteiger med kors. ",
-        "date": "Sat Mar 12 2016 00:00:00 GMT+0100 (Central European Standard Time)"
-    },
-    {
-        "runes":"",
-        "eventName": "GJERTRUDMESSE",
-        "description": "til minne om Sta. Gjertrude, abbedisse i benediktinerklosteret i Nivelles, død 659. Kaltes også Per Pek i vatn fordi St. Peter da kom med sin stav for å prøve isen. Merket er en piggstav. ",
-        "date": "Thu Mar 17 2016 00:00:00 GMT+0100 (Central European Standard Time)"
-    },
-    {
-        "runes":"",
-        "eventName": "VÅRJEVNDØGN",
-        "description": "Dag og natt nøyaktig (astronomisk sett) like lange. \nI virkeligheten er vårjevndøgn stort sett 20. mars, men året før skuddår er datoen 21. mars. ",
-        "date": "Mon Mar 21 2016 00:00:00 GMT+0100 (Central European Standard Time)"
-    },
-    {
-        "runes":"",
-        "eventName": "MARIMESSE",
-        "description": "VÅRFRUMESSE eller VÅRMESSE. (halvveis mellom juledag og Sankthansdag). Jomfru Marias bebudelsesdag. Mild vårfrumesse spdde godt. Nå er det slutt med sledeføret. Merket er et tre med kors. ",
-        "date": "Fri Mar 25 2016 00:00:00 GMT+0100 (Central European Standard Time)"
-    },
-    {
-        "runes":"",
-        "eventName": "HELLIGE HUGO",
-        "description": "biskop av Grenoble. Han solgte en gull kalk og ga pengene for å kjøpe mat til de sultne. ",
-        "date": "Fri Apr 01 2016 00:00:00 GMT+0200 (Central European Summer Time)"
-    },
-    {
-        "runes":"",
-        "eventName": "BALBINA",
-        "description": "Den hellige Balbina, jomfru som ble døpt av pave Aleksander. Balbina døde i 169. Merket ser ut som en alterkalk eller en døpefont. ",
-        "date": "Thu Mar 31 2016 00:00:00 GMT+0200 (Central European Summer Time)"
-    },
-    {
-        "runes":"",
-        "eventName": "SOMMERMÅL",
-        "description": "eller Sommerdag. Markerte inngangen til sommerhalvåret. Snedde det sommerdagen, skulle det bli 9 snedager til sommeren virkelig kom. St. Tiburtius og St. Valerianus , Melkekar skulle vaskes. Været holder i 7 uker. Merket er et tre. ",
-        "date": "Thu Apr 14 2016 00:00:00 GMT+0200 (Central European Summer Time)"
-    },
-    {
-        "runes":"",
-        "eventName": "MAGNUSMESSE",
-        "description": "Magnus Erlendsson, jarl på Orkenøyene, drept under strid med sin fetter Håkon Pålsson i år 1115 og opphøyet til helgen i år 1135. Nå kunne man begynne å hakke i jorden. Merket er ett kors og en hakke. ",
-        "date": "Sat Apr 16 2016 00:00:00 GMT+0200 (Central European Summer Time)"
-    },
-    {
-        "runes":"",
-        "eventName": "ST. GEORGSDAG",
-        "description": "eller St. Jørgens dag. Speiderbevegelsen feirer fortsatt denne dagen, og den legges gjerne til nærmeste helg, og det m nevnes at speiderne aldri benytter St. Georgskorset! Primstavmerket er gjerne ett St. Georgs kors eller en hest. ",
-        "date": "Sat Apr 23 2016 00:00:00 GMT+0200 (Central European Summer Time)"
-    },
-    {
-        "runes":"",
-        "eventName": "GANGDAGEN",
-        "description": "eller MARKUSMESSE Minnet om Evangelisten St. Markus ble høytideligholdt ved at Presten og folket gikk i store prosesjoner over markene. Men navnet har også forbindelse med at våre hedenske forfedre feiret 25. april som en -gagn-dag- (gagn = seier), gammel vårfest, til minne om æsenes seier over vinterens onde ånd, jetten Tjasse. Merket er evangelistens fjærpenn. ",
-        "date": "Mon Apr 25 2016 00:00:00 GMT+0200 (Central European Summer Time)"
-    },
-    {
-        "runes":"",
-        "eventName": "KORSMESSE",
-        "description": "(den store), til minne om at det hellige kors ble funnet i Jerusalem av Helena, keiser Konstantins mor (ca. 330). Første sådag og klippedag for sau. Merket er et kors. (Som 20. juli). ",
-        "date": "Tue May 03 2016 00:00:00 GMT+0200 (Central European Summer Time)"
-    },
-    {
-        "runes":"",
-        "eventName": "GAUKMESSE",
-        "description": "Helgener er St. Philip og St. Jacob. Valborgdag i Sverige og Danmark. Første gang man hørte gjøken gale den dagen, måtte man legge godt merke til hvor lyden kom fra. Satt gjøken i øst, var det varsel om lykke i frieri osv. Merket er en gjøk. ",
-        "date": "Sun May 01 2016 00:00:00 GMT+0200 (Central European Summer Time)"
-    },
-    {
-        "runes":"",
-        "eventName": "HALVORSOK",
-        "description": "eller Hallvardsmesse. St. Hal(l)vard Vedbjørnsson ble drept med et pileskudd og liket ble senket i Drammensfjorden med en møllesten om halsen. - Men liket og stenen fløt opp, og St. Hallvard ble bisatt i Oslo Domkirke. Møllestenen og pilene går igjen i Oslo Bys segl og merke. Buskapen skulle finne føde ute. Merket er en kvernstein. ",
-        "date": "Sun May 15 2016 00:00:00 GMT+0200 (Central European Summer Time)"
-    },
-    {
-        "runes":"",
-        "eventName": "Brende Phd Report",
-        "description": "you now have a new deadline for your evaluation: February 23rd 2016.\n\nPlease make sure that Mattijs has your reports by February 18th.",
-        "date": "Thu Feb 18 2016 00:00:00 GMT+0100 (Central European Standard Time)"
-    },
-    {
-        "runes":"",
-        "eventName": "Bonsnosen T & J",
-        "date": "Sat Jul 06 2024 11:00:00 GMT+0200 (Central European Summer Time)"
+        "eventName": "NYTTÅRSAFTEN",
+        "description": "Dette var en farlig aften. All slags trollskap var ute. For å holde trollskapet borte, skjøt de skudd over hustakene. I senere tid gikk skikken over til å skyte inn det nye året.\nMerket er et hjul eller et timeglass. ",
+        "date": "Thu Dec 31 2015 00:00:00 GMT+0100 (Central European Standard Time)",
+        "rune": "ᚾᛦᛏᛏ?ᚱᛋᚬᚠᛏᛅᚾ"
     }
 ]

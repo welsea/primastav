@@ -1,134 +1,232 @@
-body,
-html {
-    margin: 0;
+html,
+body {
     padding: 0;
-}
-
-.nav_bar {
-    padding: 20px 20px;
-    text-align: right;
-}
-
-main {
-    font-family: "Architects Daughter", cursive;
-    font-weight: 400;
-    font-style: normal;
-
-}
-
-.date{
-    text-align: center;
-}
-
-.next_date{
-    text-align: right;
-    margin-right: 0.2em;
-    color: #838383;
-}
-
-.boat{
-    background-image: url('./img/with_shield.PNG');
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: absolute;
-    width: 400px;
-    height: 400px;
-    z-index: -999;
-    opacity: 0.8;
-    bottom: 0px;
-    right: 40px;
-}
-
-.container {
-    background-color: #f2efe6;
-    width: fit-content;
-    max-width: 80%;
-    min-width: 400px;
-    margin: auto;
-    border-radius: 8px;
-    border: 1px solid #b3b0b0;
-    box-shadow: 5px 5px 5px #9f9d96;
-}
-
-.name{
-    font-size: 2em;
-    text-align: center;
-}
-
-.des{
-    text-align: center;
-    padding: 0 1em;
-}
-
-.container > div{
-    margin: 10px 10px;
-    border: 1px solid #c3c3c3;
-    border-radius: 3px;
+    margin: 0;
+    width: 100%;
+    height: 100%;
 }
 
 body {
+    background-color: #b3a58e;
+    padding-top: 5%;
+    overflow: hidden;
+}
+
+footer{
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+}
+
+.container {
+    background-color: #e9e2d6;
+    box-shadow: 4px 4px 4px #858383;
+    width: 70%;
+    height: 70%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    opacity: 0.8;
+}
+
+.container>div:first-child {
     width: 100%;
-    height: 100vh;
-    background-color: #b3a58ea3;
-    /* background-image: url(./img/basic.PNG), url(./img/with_shield.PNG);
-    background-repeat: no-repeat, no-repeat;
-    background-position: bottom 50px right 100px, left -50px top;
-    background-size: 300px 300px, 240px 240px; */
+    flex: 0 1 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
 }
 
 
-
-.ruler {
-    background-image: url('./img/ruler.png');
-    width: 300px;
-    height: 200px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    margin: auto;
+.container>div:last-child {
+    width: 100%;
+    flex: 0 1 45%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .logo {
-    background-image: url("./img/winter.png");
+    background-image: url("../assets/img/winter.png");
+    width: 90px;
+    height: 90px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    margin: auto;
-    width: 60px;
-    height: 60px;
-    position: relative;
-    top: 30px;
 }
 
-.runes {
-    text-align: center;
-    font-size: xxx-large;
+.ruler {
+    border-bottom: 2px solid #563a0b;
+    box-shadow: 0 2px #858383;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    width: 60%;
+    margin-top: 10px;
+}
+
+.ruler>div {
+    height: 30px;
+    border-left: 2px solid #563a0b;
+    box-shadow: 2px 2px 2px #858383;
+}
+
+.ruler>div:nth-child(3) {
+    height: 45px;
+}
+
+.ruder div:last-child {
+    border: none;
+    box-shadow: 2px 2px 2px #858383;
+}
+
+.rune {
+    position: absolute;
+    font-size: 40px;
+}
+
+.info {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.name {
+    font-size: 30px;
+}
+
+.des {
+    width: 60%;
+    font-size: 20px;
 }
 
 .hide {
     display: none;
 }
 
-.info_container {
-    position: relative;
-    top: -55px;
-    opacity: 0;
-}
-
-
-.info {
-    width: 400px;
-    margin: auto;
-    opacity: 0;
-}
-
-
-.footer {
+#boat,
+#with-shield {
+    opacity: 0.1;
     position: absolute;
-    bottom: 0;
-    text-align: right;
-    width: 100%;
-    padding: 10px 20px;
+    z-index: -999;
+}
+
+.boat_0,
+.boat_1,
+.boat_2 {
+    width: 280px;
     right: 0;
-    color: #848484;
+    top: 20px;
+}
+
+.with_shield_0,
+.with_shield_1,
+.with_shield_2 {
+    width: 280px;
+    bottom: 30px;
+}
+
+#helmet {
+    position: absolute;
+    opacity: 0.3;
+    z-index: -9999;
+}
+
+.helmet_0,
+.helmet_1,
+.helmet_2 {
+    width: 120px;
+
+    top: 100px;
+    left: 0px;
+}
+
+
+/* Media Query for Tablets */
+@media (max-width: 768px) {
+    .container {
+        width: 90%;
+        /* Make container take up more space on tablets */
+        padding-top: 10%;
+    }
+
+    .logo {
+        width: 25vw;
+        /* Make the logo smaller */
+        height: 25vw;
+        max-width: 60px;
+        max-height: 60px;
+    }
+
+    .ruler {
+        width: 80%;
+        /* Make ruler occupy more space */
+    }
+
+    .name {
+        font-size: 5vw;
+        /* Adjust font size for better readability */
+        margin: 40px 0 15px;
+    }
+
+    .des {
+        width: 80%;
+        /* Make description text take more space */
+        font-size: 3vw;
+        /* Adjust font size */
+    }
+}
+
+/* Media Query for Mobile */
+@media (max-width: 480px) {
+    body {
+        padding-top: 10%;
+    }
+
+    .container {
+        width: 90%;
+        /* Make container nearly full width */
+        padding-top: 20px;
+        box-shadow: 1px 1px 1px #b3a58e;
+    }
+
+    .logo {
+        width: 40vw;
+        /* Make the logo even smaller on mobile */
+        height: 40vw;
+        max-width: 50px;
+        max-height: 50px;
+    }
+
+    .ruler {
+        width: 80%;
+        /* Make ruler width almost full width */
+        margin-top: 10px;
+    }
+
+    .ruler>div {
+        height: 10px;
+    }
+
+    .ruler>div:nth-child(3) {
+        height: 20px;
+    }
+
+    .name {
+        font-size: 7vw;
+        /* Make font size larger on mobile */
+        margin: 40px 0 20px;
+    }
+
+    .des {
+        width: 90%;
+        /* Make description width nearly full */
+        font-size: 4vw;
+        /* Increase font size for readability */
+    }
 }
