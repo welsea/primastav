@@ -3,7 +3,7 @@ import Events from "./data.json";
 
 /**
  * TODO:
- *  [ ] check date, update the info & logo to newest date
+ *  [x] check date, update the info & logo to newest date
  *  [ ] resize logo files
  */
 interface Event {
