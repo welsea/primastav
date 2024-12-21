@@ -11,6 +11,7 @@ interface Event {
   description: string;
   date: string;
   rune: string;
+  index: number;
 }
 
 function main() {
@@ -24,6 +25,7 @@ function main() {
 function selectEvent() {
   const current = new Date();
   let selectEvent: Event = null;
+  const logoContainer = document.getElementById("logo");
   const norwegianMonthShortNames = [
     "jan",
     "feb",
@@ -62,10 +64,34 @@ function selectEvent() {
   nameEle.innerText = selectEvent.eventName;
   const dateEle = document.getElementById("date");
   dateEle.innerText = selectEvent.date;
+  console.log(selectEvent.index)
+
+  if (selectEvent.index >= 27 || selectEvent.index <= 66) {
+    // change to summer logo
+    changeSeasonLogo("summer");
+  }
+
+  if (selectEvent.index >= 66 || selectEvent.index <= 27) {
+    // change to winter logo
+    changeSeasonLogo("winter");
+  }
   const desEle = document.getElementById("des");
   desEle.innerText = selectEvent.description || "";
   const runeEle = document.getElementById("rune");
   runeEle.innerText = selectEvent.rune;
+
+  logoContainer.innerHTML = "";
+  const logo = document.createElement("img");
+  logo.src = `../assets/img/winter.png`; // change to selectEvent.index
+  logoContainer.appendChild(logo);
+}
+
+function changeSeasonLogo(value: string) {
+  const seasonContainer = document.getElementById("season");
+  seasonContainer.innerHTML = "";
+  const season = document.createElement("img");
+  season.src = `../assets/img/${value}.png`;
+  seasonContainer.appendChild(season);
 }
 
 function assignClassImg() {
