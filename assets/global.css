@@ -3,6 +3,7 @@ body {
     padding: 0;
     margin: 0;
     width: 100%;
+    overflow: auto;
 }
 
 body {
@@ -20,11 +21,12 @@ body {
 
 footer {
     position: absolute;
-    bottom: 0px;
+    bottom: 0;
     width: 100%;
     text-align: center;
     background-color: #bdb5a678;
     color: #6e6960;
+    height: 30px;
     padding: 10px 0;
 }
 
@@ -44,6 +46,7 @@ footer {
     margin-top: 5%;
     opacity: 0.8;
     padding: 10px 5px 40px;
+    margin-bottom: 5%;
 }
 
 .season{
@@ -172,6 +175,17 @@ footer {
         width: 80%;
         font-size: 3vw;
     }
+
+    footer {
+        position: relative;
+        bottom: 0;
+        width: 100%;
+        text-align: center;
+        background-color: #bdb5a678;
+        color: #6e6960;
+        height: 30px;
+        padding: 10px 0;
+    }
 }
 
 /* Media Query for Mobile */
@@ -229,5 +243,17 @@ footer {
         opacity: 0.3;
         z-index: -9999;
         width: 50px;
+    }
+
+
+    footer {
+        position: relative;
+        bottom: 0;
+        width: 100%;
+        text-align: center;
+        background-color: #bdb5a678;
+        color: #6e6960;
+        height: 30px;
+        padding: 10px 0;
     }
 }
