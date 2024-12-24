@@ -64,14 +64,14 @@ function selectEvent() {
   nameEle.innerText = selectEvent.eventName;
   const dateEle = document.getElementById("date");
   dateEle.innerText = selectEvent.date;
-  console.log(selectEvent.index)
+  console.log(selectEvent.index);
 
-  if (selectEvent.index >= 27 || selectEvent.index <= 66) {
+  if (selectEvent.index >= 12 || selectEvent.index < 43) {
     // change to summer logo
     changeSeasonLogo("summer");
   }
 
-  if (selectEvent.index >= 66 || selectEvent.index <= 27) {
+  if (selectEvent.index >= 43 || selectEvent.index < 12) {
     // change to winter logo
     changeSeasonLogo("winter");
   }
@@ -82,7 +82,8 @@ function selectEvent() {
 
   logoContainer.innerHTML = "";
   const logo = document.createElement("img");
-  logo.src = `../assets/img/winter.png`; // change to selectEvent.index
+  logo.alt = selectEvent.eventName;
+  logo.src = `../assets/img/${selectEvent.index}.png`; // change to selectEvent.index
   logoContainer.appendChild(logo);
 }
 
@@ -90,6 +91,7 @@ function changeSeasonLogo(value: string) {
   const seasonContainer = document.getElementById("season");
   seasonContainer.innerHTML = "";
   const season = document.createElement("img");
+  season.alt = value;
   season.src = `../assets/img/${value}.png`;
   seasonContainer.appendChild(season);
 }
