@@ -196,11 +196,6 @@ footer {
         height: 70px;
     }
 
-    .logo img{
-        height: 100%;
-        width: auto;
-    }
-
     .rune, .name{
         font-size: 7vw;
     }
@@ -212,6 +207,8 @@ footer {
     .des {
         width: 90%;
         font-size: 15px;
+        padding: 2% 5%;
+        overflow: scroll;
     }
 
     #boat,
