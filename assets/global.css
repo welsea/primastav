@@ -177,6 +177,12 @@ footer {
 
 /* Media Query for Mobile */
 @media (max-width: 480px) {
+
+    body {
+        background-color: #b3a58e;
+        overflow: auto;
+    }
+    
     .container {
         width: 90%;
         box-shadow: 1px 1px 1px #b3a58e;

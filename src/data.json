@@ -15,21 +15,21 @@
     },
     {
         "eventName": "BRETTESMESSE",
-        "description": "Opprinnelig Sta. Brictiva messe. &quot;Brette&quot; er her brukt i betydningen å dele opp (brekke) noe i småstykker. Denne dag skal du ikke kjøre hest. Alle julens matrester skal brekkes og legges i gryta. Merket er en hest, en øks, et kors eller et flagg. ",
+        "description": "Opprinnelig Sta. Brictiva messe. \"Brette\" er her brukt i betydningen å dele opp (brekke) noe i småstykker. Denne dag skal du ikke kjøre hest. Alle julens matrester skal brekkes og legges i gryta. Merket er en hest, en øks, et kors eller et flagg. ",
         "date": "Mon Jan 11 2016 00:00:00 GMT+0100 (Central European Standard Time)",
         "rune": "ᛒᚱᛅᛏᛏᛅᛋᛘᛅᛋᛋᛅ",
         "index": 2
     },
     {
         "eventName": "TJUGENDAG ",
-        "description": "eller Tjuendedag jul. St. Knut. Knut jager julen ut. Dette var gamle nyttårsdag. Emnetre skal hugges. Nå skulle julen ringes ut - og juleølet drikkes opp. &quot;Det var godt strå som korn og brød var i enden på&quot;. Merket er en øks, et omsnudd drikkehorn eller en omsnudd klokke. ",
+        "description": "eller Tjuendedag jul. St. Knut. Knut jager julen ut. Dette var gamle nyttårsdag. Emnetre skal hugges. Nå skulle julen ringes ut - og juleølet drikkes opp. \"Det var godt strå som korn og brød var i enden på\". Merket er en øks, et omsnudd drikkehorn eller en omsnudd klokke. ",
         "date": "Wed Jan 13 2016 00:00:00 GMT+0100 (Central European Standard Time)",
         "rune": "ᛏᛁᚢᚴᛅᚾᚦᚬᚴ ",
         "index": 3
     },
     {
         "eventName": "PÅLSMESSE",
-        "description": "eller &quot;Pål skytter&quot; til minne om Apostelen Paulus, som den dag ble omvendt til kristendommen. Pålsmesse ga bud om vær og år. Merket er en bue, et sverd eller en fisk. ",
+        "description": "eller \"Pål skytter\" til minne om Apostelen Paulus, som den dag ble omvendt til kristendommen. Pålsmesse ga bud om vær og år. Merket er en bue, et sverd eller en fisk. ",
         "date": "Mon Jan 25 2016 00:00:00 GMT+0100 (Central European Standard Time)",
         "rune": "ᛒ?ᛚᛋᛘᛅᛋᛋᛅ",
         "index": 4
@@ -50,21 +50,21 @@
     },
     {
         "eventName": "ÅGOTMESSE",
-        "description": "eller &quot;musedagen&quot;, til minne om Sta. Agatha, som led martyrdøden i år 251. Unge jenter skal ikke børste håret. Merket er en mus. ",
+        "description": "eller \"musedagen\", til minne om Sta. Agatha, som led martyrdøden i år 251. Unge jenter skal ikke børste håret. Merket er en mus. ",
         "date": "Fri Feb 06 2016 00:00:00 GMT+0100 (Central European Standard Time)",
         "rune": "?ᚴᚬᛏᛘᛅᛋᛋᛅ",
         "index": 7
     },
     {
         "eventName": "PERSOK",
-        "description": "eller St. Peters stol eller Per Varmstein. Apostelen Petrus ble biskop på denne dag. At isen kunne begynne å gå opp på vann og elver på den tiden, mente folk kom av at St. Peter kastet varme steiner ned på isen. Fra denne dag begynner forøvrig isen å smelte rundt &quot;stokk og strå&quot;. Dagen ble regnet som første vårdagen. Nå løsner alle skip i vinterhavn. Merket er en nøkkel. ",
+        "description": "eller St. Peters stol eller Per Varmstein. Apostelen Petrus ble biskop på denne dag. At isen kunne begynne å gå opp på vann og elver på den tiden, mente folk kom av at St. Peter kastet varme steiner ned på isen. Fra denne dag begynner forøvrig isen å smelte rundt \"stokk og strå\". Dagen ble regnet som første vårdagen. Nå løsner alle skip i vinterhavn. Merket er en nøkkel. ",
         "date": "Mon Feb 22 2016 00:00:00 GMT+0100 (Central European Standard Time)",
         "rune": "ᛒᛅᚱᛋᚬᚴ",
         "index": 8
     },
     {
         "eventName": "MATTISMESSE",
-        "description": "eller &quot;laup-årsmesse&quot; (skuddår) fordi man la inn en ekstra dag etter Mattis. Dage er til minne om St. Mathias. &quot;Mattis bryter is, er det ikke is, gjør han is&quot;. Merket er en M. ",
+        "description": "eller \"laup-årsmesse\" (skuddår) fordi man la inn en ekstra dag etter Mattis. Dage er til minne om St. Mathias. \"Mattis bryter is, er det ikke is, gjør han is\". Merket er en M. ",
         "date": "Wed Feb 24 2016 00:00:00 GMT+0100 (Central European Standard Time)",
         "rune": "ᛘᚬᛏᛏᛁᛋᛘᛅᛋᛋᛅ",
         "index": 9
@@ -169,7 +169,7 @@
     },
     {
         "eventName": "SYFTESOK",
-        "description": "St. Svithuns messe, forvansket til &quot;syfte&quot; som betyr å rense. Dermed en påminnelse om nå skulle åkeren renses for ugress. Som været er, skal det bli til Olsok. Nå kunne slåttonna ta til. Merket er en ljå.",
+        "description": "St. Svithuns messe, forvansket til \"syfte\" som betyr å rense. Dermed en påminnelse om nå skulle åkeren renses for ugress. Som været er, skal det bli til Olsok. Nå kunne slåttonna ta til. Merket er en ljå.",
         "date": "Sat Jul 02 2016 00:00:00 GMT+0200 (Central European Summer Time)",
         "rune": "ᛋᛦᚠᛏᛅᛋᚬᚴ",
         "index": 24
@@ -232,7 +232,7 @@
     },
     {
         "eventName": "VESLE OLSOK",
-        "description": "Til minne om at Olav den Hellige - som da et helt år hadde ligget begravet i &quot;uinnviet&quot; jord, fikk kirkelig bisettelse og ble erklært for helgen (1031).",
+        "description": "Til minne om at Olav den Hellige - som da et helt år hadde ligget begravet i \"uinnviet\" jord, fikk kirkelig bisettelse og ble erklært for helgen (1031).",
         "date": "Wed Aug 03 2016 00:00:00 GMT+0200 (Central European Summer Time)",
         "rune": "ᚢᛅᛋᛚᛅ ᚬᛚᛋᚬᚴ",
         "index": 33
@@ -323,7 +323,7 @@
     },
     {
         "eventName": "ALLEHELGENSDAG ",
-        "description": "eller HELGEMESSE er en gammel minnefest for alle helgener og martyrer. I den gresk-ortodokse kirke feires det , siden det 4. århundre, første søndag efter pinse som &quot;alle martyrers fest&quot;. I den romersk-katolske kirke ble Allehelgensdag i år 610 innstiftet, og den ble i det 9. århundre av pave Gregor IV henlagt til 1. november. (Jeg har også sett skrevet at dagen ble innstiftet av pave Bonifacius). Efter reformasjonen ble denne dagen slått sammen med 31. oktober, da Luther slo opp sine 95 teser om avlat, og lagt til nærmeste søndag.\nI den norske kirke er Allehelgensdag henlagt til 1. søndag i november. I Norge blir denne dag også kalt helgemess, som i den gamle folkelige tidsregningen er en av de viktige merkedagene.\n\nDenne dagen ble på primstaven betegnet med en omvendt båt eller skip.\n\nI Amerika kalles denne dagen &quot;HALLOWEEN&quot; og blir feiret med pomp og prakt.\n\nHelgener er etter katolsk kirkelære hellige menn og kvinner, som efter sin død er gått inn til den evige salighet. Martyrer kalles de kristne «blodvitnere» som i forfølgelsen led døden for troens skyld. Deres ben ble betraktet som hellige relikvier, kirker ble bygd, eller alter ble reist over deres graver.\n\nDet mentes også at martyrer gikk i forbønn for menigheten hos Gud. Således fremkom helgendyrkelse. Øverst blant alle helgener finner vi Jomfru Maria, deretter apostler, evangelister, martyrer og mange av kirkens store skikkelser som har kjempet og lidt for sin tro.\n\nI nyere tid har vi nordmenn gjort Allehelgensdag om til en minnedag for våre døde forfedre. Tradisjonen i dag er at vi går til våre gravsteder og pynter med en krans eller gravbukett. Dette er blitt en fin og verdig tradisjon.\n\nBåtene skal legges i opplag for vinteren. Denne natten er man sanndrømt. Merket er et skip.  \nhttp://home.online.no/~agn-nil/sub/primstav_vaer/primstav.html\n",
+        "description": "eller HELGEMESSE er en gammel minnefest for alle helgener og martyrer. I den gresk-ortodokse kirke feires det , siden det 4. århundre, første søndag efter pinse som \"alle martyrers fest\". I den romersk-katolske kirke ble Allehelgensdag i år 610 innstiftet, og den ble i det 9. århundre av pave Gregor IV henlagt til 1. november. (Jeg har også sett skrevet at dagen ble innstiftet av pave Bonifacius). Efter reformasjonen ble denne dagen slått sammen med 31. oktober, da Luther slo opp sine 95 teser om avlat, og lagt til nærmeste søndag.\nI den norske kirke er Allehelgensdag henlagt til 1. søndag i november. I Norge blir denne dag også kalt helgemess, som i den gamle folkelige tidsregningen er en av de viktige merkedagene.\n\nDenne dagen ble på primstaven betegnet med en omvendt båt eller skip.\n\nI Amerika kalles denne dagen \"HALLOWEEN\" og blir feiret med pomp og prakt.\n\nHelgener er etter katolsk kirkelære hellige menn og kvinner, som efter sin død er gått inn til den evige salighet. Martyrer kalles de kristne «blodvitnere» som i forfølgelsen led døden for troens skyld. Deres ben ble betraktet som hellige relikvier, kirker ble bygd, eller alter ble reist over deres graver.\n\nDet mentes også at martyrer gikk i forbønn for menigheten hos Gud. Således fremkom helgendyrkelse. Øverst blant alle helgener finner vi Jomfru Maria, deretter apostler, evangelister, martyrer og mange av kirkens store skikkelser som har kjempet og lidt for sin tro.\n\nI nyere tid har vi nordmenn gjort Allehelgensdag om til en minnedag for våre døde forfedre. Tradisjonen i dag er at vi går til våre gravsteder og pynter med en krans eller gravbukett. Dette er blitt en fin og verdig tradisjon.\n\nBåtene skal legges i opplag for vinteren. Denne natten er man sanndrømt. Merket er et skip.  \nhttp://home.online.no/~agn-nil/sub/primstav_vaer/primstav.html\n",
         "date": "Sun Nov 01 2015 00:00:00 GMT+0100 (Central European Standard Time)",
         "rune": "ᚬᛚᛚᛅᚼᛅᛚᚴᛅᚾᛋᚦᚬᚴ ",
         "index": 46
@@ -379,7 +379,7 @@
     },
     {
         "eventName": "MARIAS UNNFANGELSE",
-        "description": "Ni måneder før Jomfru Marias fødselsdag, 8. september. Dagen er til minne om at den hellige Anna fødte Maria uten synd. Denne dag sa munkene at Maria tok deil i sin retning, ellers hadde hun ikke reist til Betlehem. De gamle kalte derfor dagen &quot;Vår frue Marias ventedør&quot;. Denne dagen ba fruksommelige kvinner til Jomfru Maria om en god fødsel. Kvinner ba også om lov til å bli gravide. Nå skulle juleølet brygges og klærne skulle vaskes hvite til jul. Merket er et kors, en fiskenot, en mariakrone eller en Mariafigur.  ",
+        "description": "Ni måneder før Jomfru Marias fødselsdag, 8. september. Dagen er til minne om at den hellige Anna fødte Maria uten synd. Denne dag sa munkene at Maria tok deil i sin retning, ellers hadde hun ikke reist til Betlehem. De gamle kalte derfor dagen \"Vår frue Marias ventedør\". Denne dagen ba fruksommelige kvinner til Jomfru Maria om en god fødsel. Kvinner ba også om lov til å bli gravide. Nå skulle juleølet brygges og klærne skulle vaskes hvite til jul. Merket er et kors, en fiskenot, en mariakrone eller en Mariafigur.  ",
         "date": "Tue Dec 08 2015 00:00:00 GMT+0100 (Central European Standard Time)",
         "rune": "ᛘᚬᚱᛁᚬᛋ ᚢᚾᚾᚠᚬᚾᚴᛅᛚᛋᛅ",
         "index": 54
@@ -407,14 +407,14 @@
     },
     {
         "eventName": "VINTERSOLVERV",
-        "description": "Dagen er til minne om &quot;Nordens Apostel&quot;, Ansgar, som i 826 kom til Danmark sammen med den nyfrelste kong Harald Klak. Ansgar virket som misjonær i Danmark og foretok flere reiser til Sverige. Ble i 831 Biskop av Bremen og ledet &quot;Den nordiske misjon&quot; fra sitt hovedsete i Hamburg til sin død. Dagen er også til minne om Japetus, en av Noas sønner, Jafet. I Beiarn og Salten ble denne dagen kalt &quot;Sjursmøssdajen&quot;, og var solsnudag en dag senere nordpå. ",
+        "description": "Dagen er til minne om \" Nordens Apostel\", Ansgar, som i 826 kom til Danmark sammen med den nyfrelste kong Harald Klak. Ansgar virket som misjonær i Danmark og foretok flere reiser til Sverige. Ble i 831 Biskop av Bremen og ledet \"Den nordiske misjon\" fra sitt hovedsete i Hamburg til sin død. Dagen er også til minne om Japetus, en av Noas sønner, Jafet. I Beiarn og Salten ble denne dagen kalt \"Sjursmøssdajen\", og var solsnudag en dag senere nordpå. ",
         "date": "Tue Dec 22 2015 00:00:00 GMT+0100 (Central European Standard Time)",
         "rune": "ᚢᛁᚾᛏᛅᚱᛋᚬᛚᚢᛅᚱᚢ",
         "index": 58
     },
     {
         "eventName": "JULEDAG",
-        "description": "Kristi fødsel. Denne dagen skulle man holde seg hjemme. Blåser det sønnavind julenatt, blir det en mild vinter. Tegnet for denne dag skal opprinnelig ha vært et &quot;reive-barn&quot;, men gjennom misstydninger er det blitt til et drikkehorn. Merket er et hjul, en sol, et kors, en syv-armet lysestake eller et drikkehorn.\n\n25. - 27. desember kunne man ta varsler for fiske, avling og kjærlighet samt liv og død. I Nord Norge tok de et fat og fylte det med rent sjøvann. Så satte de fatet på bordet og la en duk over, og ingen måtte se i fatet før juledagsmorgen. Rundt kantene på fatet skrev de navnene på de viktigste fiskeværene: Kabelvåg, Stamsund, Røst, Ballstad, osv. Den som først våknet om morgenen, gikk stille og uten å snakke med noen, bort til fatet, løftet forsiktig av duken, og der kunne han se luftblærer på bunnen og rundt kantene. Der blærene stod tettest, skulle det bli det beste fisket kommende år. ",
+        "description": "Kristi fødsel. Denne dagen skulle man holde seg hjemme. Blåser det sønnavind julenatt, blir det en mild vinter. Tegnet for denne dag skal opprinnelig ha vært et \"reive-barn\", men gjennom misstydninger er det blitt til et drikkehorn. Merket er et hjul, en sol, et kors, en syv-armet lysestake eller et drikkehorn.\n\n25. - 27. desember kunne man ta varsler for fiske, avling og kjærlighet samt liv og død. I Nord Norge tok de et fat og fylte det med rent sjøvann. Så satte de fatet på bordet og la en duk over, og ingen måtte se i fatet før juledagsmorgen. Rundt kantene på fatet skrev de navnene på de viktigste fiskeværene: Kabelvåg, Stamsund, Røst, Ballstad, osv. Den som først våknet om morgenen, gikk stille og uten å snakke med noen, bort til fatet, løftet forsiktig av duken, og der kunne han se luftblærer på bunnen og rundt kantene. Der blærene stod tettest, skulle det bli det beste fisket kommende år. ",
         "date": "Fri Dec 25 2015 00:00:00 GMT+0100 (Central European Standard Time)",
         "rune": "ᛁᚢᛚᛅᚦᚬᚴ",
         "index": 59
