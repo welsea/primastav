@@ -58,11 +58,7 @@ footer {
 
 
 .logo_container{
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: flex-end;
+    text-align: center;
 }
 
 
@@ -158,30 +154,24 @@ footer {
         padding-top: 10%;
     }
 
-
-
     .logo{
-        text-align: center;
+        height: 25vw;
     }
 
     .logo img{
         width: auto;
-        /* Make the logo smaller */
         height: 25vw;
     }
 
 
     .name {
         font-size: 5vw;
-        /* Adjust font size for better readability */
         margin: 40px 0 15px;
     }
 
     .des {
         width: 80%;
-        /* Make description text take more space */
         font-size: 3vw;
-        /* Adjust font size */
     }
 }
 
@@ -202,19 +192,22 @@ footer {
         width: 30px;
     }
 
-    .logo img{
+    .logo{
         height: 70px;
+    }
+
+    .logo img{
+        height: 100%;
         width: auto;
+    }
+
+    .rune, .name{
+        font-size: 7vw;
     }
 
     .rune{
         width: 90%;
     }
-
-    /* .name {
-        font-size: 30px;
-        margin: 40px 0 20px;
-    } */
 
     .des {
         width: 90%;
