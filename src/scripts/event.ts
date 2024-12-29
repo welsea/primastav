@@ -13,6 +13,7 @@ export default function selectEvent() {
   const current = new Date();
   let selectEvent: Event = null;
   const logoContainer = document.getElementById("logo");
+  logoContainer.classList.remove("logo_default")
   const norwegianMonthShortNames = [
     "jan",
     "feb",

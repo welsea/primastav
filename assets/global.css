@@ -47,6 +47,12 @@ footer {
     width: 100%;
 }
 
+.season_default{
+    width: 70px;
+    height: 70px;
+    border: 1px dashed;
+}
+
 .season img {
     width: 70px;
     opacity: 0.9;
@@ -61,6 +67,12 @@ footer {
 .logo {
     height: 150px;
     width: auto;
+}
+
+.logo_default {
+    width: 150px;
+    height: 150px;
+    border: 1px dashed;
 }
 
 .logo img {
@@ -156,6 +168,12 @@ footer {
         height: 25vw;
     }
 
+    .logo_default {
+        width: 25vw;
+        height: 25vw;
+        border: 1px dashed;
+    }
+
     .logo img {
         width: auto;
         height: 25vw;
@@ -207,8 +225,20 @@ footer {
         width: 30px;
     }
 
+    .season_default{
+        width: 30px;
+        height: 30px;
+        border: 1px dashed;
+    }
+
     .logo {
         height: 70px;
+    }
+
+    .logo_default {
+        width: 70px;
+        height: 70px;
+        border: 1px dashed;
     }
 
     .rune,
