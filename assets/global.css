@@ -11,13 +11,7 @@ body {
     overflow: hidden;
 }
 
-.about_page{
-    padding: 30px 40px;
-}
 
-.about_page a{
-    color:black;
-}
 
 footer {
     position: relative;
@@ -30,7 +24,7 @@ footer {
     padding: 10px 0;
 }
 
-.about{
+.about {
     color: #51452f;
     text-decoration: none;
     margin: 10px;
@@ -49,17 +43,17 @@ footer {
     margin-bottom: 5%;
 }
 
-.season{
+.season {
     width: 100%;
 }
 
-.season img{
+.season img {
     width: 70px;
     opacity: 0.9;
 }
 
 
-.logo_container{
+.logo_container {
     text-align: center;
 }
 
@@ -69,7 +63,7 @@ footer {
     width: auto;
 }
 
-.logo img{
+.logo img {
     height: 100%;
     width: auto;
 }
@@ -79,11 +73,13 @@ footer {
     font-size: 40px;
     text-align: center;
     width: 70%;
+    opacity: 0.2;
 }
 
 
 .info {
     text-align: center;
+    opacity: 1;
 }
 
 .name {
@@ -91,7 +87,7 @@ footer {
     margin: 1em 0 0;
 }
 
-.date{
+.date {
     margin: 1em 0;
 }
 
@@ -156,11 +152,11 @@ footer {
         padding-top: 10%;
     }
 
-    .logo{
+    .logo {
         height: 25vw;
     }
 
-    .logo img{
+    .logo img {
         width: auto;
         height: 25vw;
     }
@@ -202,24 +198,25 @@ footer {
         padding: 5px 5px 20px;
     }
 
-    .footer{
+    .footer {
         font-size: small;
         padding: 5px 0;
     }
 
-    .season img{
+    .season img {
         width: 30px;
     }
 
-    .logo{
+    .logo {
         height: 70px;
     }
 
-    .rune, .name{
+    .rune,
+    .name {
         font-size: 7vw;
     }
 
-    .rune{
+    .rune {
         width: 90%;
     }
 
