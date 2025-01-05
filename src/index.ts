@@ -1,9 +1,9 @@
 import "../assets/global.css";
-import selectEvent from "./scripts/event";
+import selectCurrentEvent from "./scripts/event";
 import displayInfo from "./scripts/displayInfo";
 import assignClassImg from "./scripts/displayBGimgs";
 function main() {
-  selectEvent();
+  selectCurrentEvent();
   assignClassImg();
   displayInfo();
 }

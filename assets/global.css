@@ -24,6 +24,22 @@ footer {
     padding: 10px 0;
 }
 
+.actions{
+    width: 100%;
+    min-height: 50px;
+}
+
+.actions button{
+    border: none;
+    margin-top: 30px;
+    background: none;
+    color: #3c3a3a;
+}
+
+.actions button:last-child{
+    float: right;
+}
+
 .about {
     color: #51452f;
     text-decoration: none;
@@ -39,8 +55,12 @@ footer {
     margin: 0 auto;
     margin-top: 5%;
     opacity: 0.8;
-    padding: 10px 5px 40px;
+    padding: 10px 5px 10px;
     margin-bottom: 5%;
+    min-height: 75vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .season {
@@ -92,6 +112,8 @@ footer {
 .info {
     text-align: center;
     opacity: 1;
+    position: relative;
+    top: -1.5em;
 }
 
 .name {
@@ -214,6 +236,7 @@ footer {
         width: 90%;
         box-shadow: 1px 1px 1px #b3a58e;
         padding: 5px 5px 20px;
+        min-height: 80vh;
     }
 
     .footer {
