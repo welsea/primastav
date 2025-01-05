@@ -40,7 +40,6 @@ export default function selectCurrentEvent() {
       (eventMonth === currentMonth && eventDay <= currentDate)
     ) {
       selectEvent = event;
-      selectEvent.date = `${eventDay} ${norwegianMonthShortNames[eventMonth]}.`;
     } else {
       break;
     }
