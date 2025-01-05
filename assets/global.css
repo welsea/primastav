@@ -253,13 +253,18 @@ footer {
     }
 
     .logo {
-        height: 70px;
+        height: 25vw;
     }
 
     .logo_default {
-        width: 70px;
-        height: 70px;
+        width: 25vw;
+        height: 25vw;
         border: 1px dashed;
+    }
+
+    .logo img {
+        width: auto;
+        height: 25vw;
     }
 
     .rune,
