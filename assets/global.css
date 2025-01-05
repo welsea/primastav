@@ -11,8 +11,6 @@ body {
     overflow: hidden;
 }
 
-
-
 footer {
     position: relative;
     bottom: 0;
@@ -57,7 +55,7 @@ footer {
     opacity: 0.8;
     padding: 10px 5px 10px;
     margin-bottom: 5%;
-    min-height: 75vh;
+    min-height: 70vh;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -236,7 +234,7 @@ footer {
         width: 90%;
         box-shadow: 1px 1px 1px #b3a58e;
         padding: 5px 5px 20px;
-        min-height: 80vh;
+        min-height: 70vh;
     }
 
     .footer {
