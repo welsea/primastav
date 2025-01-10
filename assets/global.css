@@ -126,7 +126,7 @@ footer {
 .des {
     padding: 10px 30px;
     font-size: 20px;
-    overflow: scroll;
+    overflow: auto;
     text-align: left;
 }
 
@@ -280,7 +280,7 @@ footer {
         width: 90%;
         font-size: 15px;
         padding: 2% 5%;
-        overflow: scroll;
+        overflow: auto;
     }
 
     #boat,
